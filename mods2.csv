@@ -1,0 +1,818 @@
+,set,slot,stars,level,primary,sec1-val,sec1-type,sec1-roll,sec2-val,sec2-type,sec2-roll,sec3-val,sec3-type,sec3-roll,sec4-val,sec4-type,sec4-roll,character
+0,1.0,1.0,5.0,15-C,5.88% Offense,3.61%,Critical Chance,2,7,Speed,2,480,Protection,1,398,Health,1,Logray
+1,1.0,1.0,5.0,15-E,5.88% Offense,1.73%,Critical Chance,1,2.17%,Protection,1,789,Protection,1,0.85%,Health,1,Baze Malbus
+2,1.0,1.0,5.0,15-C,5.88% Offense,983,Protection,2,8,Speed,2,1.91%,Potency,1,0.57%,Health,1,First Order Executioner
+3,1.0,1.0,5.0,15-A,5.88% Offense,8,Defense,1,15,Speed,3,4.04%,Critical Chance,2,54,Offense,2,C-3PO
+4,1.0,1.0,5.0,15-A,5.88% Offense,643,Health,2,13,Speed,3,1.68%,Critical Chance,1,2.49%,Defense,2,General Kenobi
+5,1.0,1.0,5.0,15-C,5.88% Offense,3.3%,Potency,2,0.97%,Defense,1,678,Protection,1,10,Speed,2,Zaalbar
+6,1.0,1.0,5.0,15-B,5.88% Offense,5.13%,Potency,3,812,Protection,1,8,Speed,2,30,Offense,1,Nightsister Acolyte
+7,1.0,1.0,5.0,15-B,5.88% Offense,10,Speed,2,86,Offense,2,1.76%,Health,2,1.35%,Defense,1,Kylo Ren (Unmasked)
+8,1.0,1.0,5.0,15-A,5.88% Offense,16,Speed,3,3.86%,Tenacity,2,0.74%,Health,1,2.34%,Critical Chance,2,B2 Super Battle Droid
+9,1.0,1.0,5.0,15-C,5.88% Offense,34,Offense,1,4,Speed,1,15,Defense,2,1.65%,Health,2,Royal Guard
+10,1.0,1.0,5.0,15-C,5.88% Offense,7,Defense,1,1.06%,Health,1,6,Speed,2,3.5%,Tenacity,2,Death Trooper
+11,1.0,1.0,5.0,15-B,5.88% Offense,0.95%,Health,1,8,Speed,2,2108,Protection,3,1.29%,Protection,1,Shoretrooper
+12,1.0,1.0,5.0,15-A,5.88% Offense,41,Offense,1,15,Speed,3,3.5%,Tenacity,2,2.78%,Potency,2,Jedi Knight Anakin
+13,1.0,1.0,5.0,15-C,5.88% Offense,18,Defense,2,0.99%,Health,1,10,Speed,2,1.75%,Potency,1,Jolee Bindo
+14,1.0,1.0,5.0,15-A,5.88% Offense,0.97%,Health,1,2.25%,Defense,2,79,Offense,2,14,Speed,3,Imperial Probe Droid
+15,1.0,1.0,6.0,15-E,8.5% Offense,6.36%,Health,4,5,Speed,1,281,Health,1,1125,Protection,2,General Grievous
+16,1.0,1.0,5.0,15-A,5.88% Offense,13,Speed,3,2.22%,Defense,2,0.98%,Health,1,14,Defense,2,Darth Sion
+17,1.0,1.0,5.0,12-C,4.75% Offense,4,Speed,1,0.95%,Defense,1,1.32%,Health,2,15,Defense,2,"CT-21-0408 ""Echo"""
+18,1.0,1.0,5.0,15-D,5.88% Offense,8,Speed,2,2.17%,Tenacity,1,9,Defense,1,1.15%,Potency,1,IG-100 MagnaGuard
+19,1.0,1.0,5.0,15-C,5.88% Offense,10,Speed,2,77,Offense,2,1.99%,Potency,1,699,Protection,1,Padmé Amidala
+20,1.0,1.0,5.0,15-A,5.88% Offense,5,Defense,1,618,Health,2,1539,Protection,2,11,Speed,3,Vandor Chewbacca
+21,1.0,1.0,5.0,15-C,5.88% Offense,1.38%,Critical Chance,1,9,Speed,2,15,Defense,2,612,Protection,1,Scarif Rebel Pathfinder
+22,1.0,1.0,5.0,15-C,5.88% Offense,10,Speed,2,6,Defense,1,2.48%,Defense,2,1.46%,Critical Chance,1,Nightsister Zombie
+23,1.0,1.0,5.0,15-D,5.88% Offense,4.01%,Protection,2,5,Defense,1,1.98%,Potency,1,3,Speed,1,"CT-5555 ""Fives"""
+24,1.0,1.0,5.0,15-D,5.88% Offense,390,Health,1,82,Offense,2,1.79%,Critical Chance,1,4,Speed,1,Chopper
+25,1.0,1.0,5.0,15-C,5.88% Offense,2.95%,Critical Chance,2,9,Speed,2,2.15%,Potency,1,24,Offense,1,Juhani
+26,1.0,1.0,5.0,15-C,5.88% Offense,2.03%,Critical Chance,1,4,Speed,1,1.62%,Health,2,2.15%,Defense,2,Captain Han Solo
+27,1.0,1.0,5.0,15-D,5.88% Offense,57,Offense,2,1.33%,Defense,1,1.27%,Tenacity,1,4,Speed,1,Stormtrooper Han
+28,1.0,1.0,5.0,15-A,5.88% Offense,4,Speed,1,2.57%,Health,3,4.41%,Tenacity,2,3.25%,Potency,2,Young Han Solo
+29,1.0,1.0,5.0,15-D,5.88% Offense,2.41%,Defense,2,1.61%,Protection,1,3,Speed,1,6,Defense,1,Captain Phasma
+30,1.0,1.0,5.0,15-A,5.88% Offense,3.38%,Tenacity,2,12,Speed,3,367,Health,1,65,Offense,2,Carth Onasi
+31,1.0,1.0,5.0,15-A,5.88% Offense,11,Speed,2,7,Defense,1,217,Health,1,6.76%,Critical Chance,4,Old Daka
+32,1.0,1.0,5.0,15-A,5.88% Offense,1086,Protection,2,4.4%,Protection,2,12,Speed,3,0.97%,Health,1,Ezra Bridger
+33,1.0,1.0,5.0,15-C,5.88% Offense,3.38%,Protection,2,53,Offense,2,6,Defense,1,5,Speed,1,Hera Syndulla
+34,1.0,1.0,5.0,15-A,5.88% Offense,18,Speed,4,647,Health,2,1.65%,Protection,1,2.18%,Tenacity,1,Ahsoka Tano
+35,2.0,1.0,5.0,15-A,5.88% Offense,5.48%,Protection,3,7,Speed,2,490,Protection,1,67,Offense,2,Droideka
+36,2.0,1.0,5.0,15-C,5.88% Offense,2.98%,Critical Chance,2,0.72%,Health,1,5,Speed,1,75,Offense,2,Finn
+37,2.0,1.0,5.0,15-B,5.88% Offense,10,Speed,2,5.38%,Critical Chance,3,1.4%,Tenacity,1,796,Protection,1,Darth Vader
+38,2.0,1.0,5.0,15-A,5.88% Offense,3.69%,Potency,2,327,Health,1,3.21%,Critical Chance,2,4.97%,Tenacity,3,Amilyn Holdo
+39,2.0,1.0,5.0,15-A,5.88% Offense,3.78%,Potency,2,4.46%,Protection,3,1.62%,Tenacity,1,9,Speed,2,First Order Officer
+40,2.0,1.0,5.0,15-A,5.88% Offense,7,Speed,2,0.66%,Health,1,6.27%,Protection,3,64,Offense,2,Darth Maul
+41,4.0,1.0,5.0,15-C,5.88% Offense,10,Speed,2,4.05%,Potency,2,1.76%,Tenacity,1,0.92%,Defense,1,B1 Battle Droid
+42,4.0,1.0,5.0,15-C,5.88% Offense,5.1%,Potency,3,43,Offense,1,747,Protection,1,2.03%,Protection,1,First Order TIE Pilot
+43,4.0,1.0,5.0,15-A,5.88% Offense,4.6%,Protection,3,2.12%,Health,2,9,Speed,2,1.34%,Tenacity,1,Hermit Yoda
+44,4.0,1.0,5.0,6-C,2.5% Offense,15,Defense,2,7,Speed,2,Qui-Gon Jinn,,,,,,
+45,4.0,1.0,5.0,15-A,5.88% Offense,12,Speed,3,1.69%,Health,2,809,Protection,1,3.77%,Potency,2,Bastila Shan
+46,4.0,1.0,5.0,15-C,5.88% Offense,1.24%,Critical Chance,1,103,Offense,3,1.61%,Potency,1,337,Health,1,Young Lando Calrissian
+47,4.0,1.0,5.0,15-B,5.88% Offense,1.53%,Potency,1,6,Defense,1,1853,Protection,3,10,Speed,2,Mother Talzin
+48,4.0,1.0,5.0,15-C,5.88% Offense,3.68%,Potency,2,10,Speed,2,1.53%,Protection,1,28,Offense,1,Range Trooper
+49,4.0,1.0,5.0,15-C,5.88% Offense,3.81%,Potency,2,2.24%,Protection,1,1.62%,Tenacity,1,10,Speed,2,Canderous Ordo
+50,4.0,1.0,5.0,15-B,5.88% Offense,3.83%,Critical Chance,2,416,Protection,1,65,Offense,2,10,Speed,2,Greedo
+51,4.0,1.0,5.0,15-C,5.88% Offense,10,Speed,2,1.45%,Health,2,1.49%,Potency,1,1.63%,Critical Chance,1,Sith Marauder
+52,4.0,1.0,5.0,15-A,5.88% Offense,2.06%,Tenacity,1,21,Defense,3,2.22%,Defense,2,7,Speed,2,Chief Chirpa
+53,4.0,1.0,5.0,15-B,5.88% Offense,100,Offense,3,1.37%,Critical Chance,1,8,Speed,2,1.8%,Protection,1,Dengar
+54,4.0,1.0,5.0,15-C,5.88% Offense,1.23%,Defense,1,11,Speed,2,2.01%,Tenacity,1,1.77%,Health,2,Mission Vao
+55,4.0,1.0,5.0,15-C,5.88% Offense,10,Speed,2,68,Offense,2,0.94%,Health,1,1.99%,Potency,1,Wicket
+56,4.0,1.0,4.0,15-D,4% Offense,7,Speed,2,1.68%,Protection,1,1.24%,Potency,1,19,Offense,1,"CC-2224 ""Cody"""
+57,4.0,1.0,5.0,15-D,5.88% Offense,6,Speed,2,1.62%,Potency,1,1.75%,Protection,1,229,Health,1,Bossk
+58,4.0,1.0,5.0,15-C,5.88% Offense,1.05%,Health,1,26,Offense,1,1609,Protection,2,9,Speed,2,"Garazeb ""Zeb"" Orrelios"
+59,4.0,1.0,5.0,15-B,5.88% Offense,1.75%,Health,2,2.88%,Protection,2,11,Speed,2,1.12%,Defense,1,Nightsister Spirit
+60,4.0,1.0,6.0,15-E,8.5% Offense,14,Defense,1,1454,Protection,2,3.97%,Tenacity,2,15,Speed,3,Darth Nihilus
+61,4.0,1.0,5.0,15-B,5.88% Offense,1.14%,Tenacity,1,10,Speed,2,113,Offense,3,1.86%,Protection,1,Grand Moff Tarkin
+62,4.0,1.0,5.0,12-C,4.75% Offense,2.8%,Defense,2,70,Offense,2,270,Health,1,617,Protection,1,Zam Wesell
+63,4.0,1.0,5.0,15-B,5.88% Offense,2.07%,Health,2,2.62%,Protection,2,9,Speed,2,800,Protection,1,Sabine Wren
+64,4.0,1.0,5.0,15-A,5.88% Offense,1.42%,Protection,1,817,Health,3,3.25%,Tenacity,2,9,Speed,2,Boba Fett
+65,4.0,1.0,5.0,12-B,4.75% Offense,2.68%,Health,3,0.95%,Defense,1,5,Speed,1,1284,Protection,2,Aurra Sing
+66,4.0,1.0,5.0,15-B,5.88% Offense,13,Speed,3,1.52%,Critical Chance,1,31,Offense,1,11,Defense,2,Geonosian Brood Alpha
+67,4.0,1.0,5.0,15-A,5.88% Offense,659,Health,2,1.62%,Health,2,13,Speed,3,8,Defense,1,"CT-7567 ""Rex"""
+68,4.0,1.0,5.0,15-A,5.88% Offense,8,Defense,1,3.75%,Critical Chance,2,84,Offense,3,10,Speed,2,Geonosian Spy
+69,4.0,1.0,5.0,15-C,5.88% Offense,4,Speed,1,101,Offense,3,0.77%,Health,1,1.54%,Defense,1,Shaak Ti
+70,4.0,1.0,5.0,15-D,5.88% Offense,5,Speed,1,27,Offense,1,2.6%,Protection,2,1.47%,Potency,1,Jyn Erso
+71,4.0,1.0,5.0,12-C,4.75% Offense,4,Speed,1,1.82%,Potency,1,2.5%,Tenacity,2,62,Offense,2,Sith Assassin
+72,4.0,1.0,5.0,12-B,4.75% Offense,5,Speed,1,4.6%,Defense,3,814,Health,2,1.85%,Protection,1,Embo
+73,4.0,1.0,5.0,15-B,5.88% Offense,10,Speed,2,1772,Protection,3,1.07%,Defense,1,1.76%,Critical Chance,1,L3-37
+74,4.0,1.0,5.0,15-A,5.88% Offense,2.81%,Defense,2,13,Speed,3,2.91%,Tenacity,2,2.02%,Protection,1,Emperor Palpatine
+75,4.0,1.0,5.0,15-A,5.88% Offense,7,Speed,2,107,Offense,3,15,Defense,2,1.19%,Protection,1,Asajj Ventress
+76,4.0,1.0,5.0,15-B,5.88% Offense,42,Offense,1,11,Speed,2,0.9%,Health,1,4.43%,Defense,3,Jango Fett
+77,4.0,1.0,5.0,15-B,5.88% Offense,696,Protection,1,13,Speed,3,761,Health,2,1.17%,Potency,1,Colonel Starck
+78,4.0,1.0,5.0,15-C,5.88% Offense,444,Protection,1,2.89%,Protection,2,10,Speed,2,2.19%,Potency,1,Count Dooku
+79,4.0,1.0,6.0,15-E,8.5% Offense,72,Offense,2,2.35%,Potency,1,17,Speed,3,5.82%,Defense,2,Darth Revan
+80,4.0,1.0,6.0,15-E,8.5% Offense,347,Health,1,48,Offense,1,21,Speed,4,1540,Protection,2,Bastila Shan (Fallen)
+81,4.0,1.0,5.0,15-C,5.88% Offense,9,Speed,2,1.75%,Critical Chance,1,254,Health,1,57,Offense,2,Qi'ra
+82,4.0,1.0,5.0,15-B,5.88% Offense,70,Offense,2,7,Speed,2,3.25%,Tenacity,2,5,Defense,1,K-2SO
+83,5.0,1.0,5.0,15-A,5.88% Offense,15,Speed,3,23,Defense,3,350,Health,1,1.69%,Protection,1,Jedi Knight Revan
+84,5.0,1.0,5.0,15-A,5.88% Offense,16,Speed,3,465,Protection,1,3.78%,Potency,2,3.29%,Tenacity,2,BB-8
+85,5.0,1.0,5.0,15-A,5.88% Offense,8,Defense,1,249,Health,1,3.12%,Protection,2,15,Speed,4,Rey (Jedi Training)
+86,5.0,1.0,5.0,15-A,5.88% Offense,14,Speed,3,631,Protection,1,63,Offense,2,2.75%,Tenacity,2,Commander Luke Skywalker
+87,5.0,1.0,5.0,3-D,1.38% Offense,7,Speed,2,Clone Wars Chewbacca,,,,,,,,,
+88,5.0,1.0,5.0,15-A,5.88% Offense,18,Speed,4,384,Health,1,1.88%,Health,2,1.51%,Potency,1,IG-88
+89,5.0,1.0,5.0,15-A,5.88% Offense,112,Offense,3,7,Speed,2,1.58%,Critical Chance,1,4.05%,Protection,2,Han Solo
+90,5.0,1.0,5.0,15-B,5.88% Offense,3.12%,Defense,2,10,Speed,2,2.65%,Tenacity,2,25,Offense,1,Snowtrooper
+91,5.0,1.0,6.0,15-E,8.5% Offense,3.9%,Potency,2,6,Speed,1,5.87%,Critical Chance,3,63,Offense,2,Geonosian Soldier
+92,5.0,1.0,5.0,15-D,5.88% Offense,7,Speed,2,1.01%,Health,1,445,Protection,1,1.7%,Potency,1,Plo Koon
+93,5.0,1.0,5.0,15-B,5.88% Offense,11,Speed,2,5.71%,Potency,3,32,Offense,1,245,Health,1,General Veers
+94,5.0,1.0,5.0,15-D,5.88% Offense,8,Speed,2,1.53%,Critical Chance,1,1.13%,Tenacity,1,0.81%,Health,1,Cassian Andor
+95,5.0,1.0,5.0,15-C,5.88% Offense,65,Offense,2,9,Speed,2,1.25%,Tenacity,1,658,Protection,1,Aayla Secura
+96,5.0,1.0,5.0,15-C,5.88% Offense,8,Speed,2,82,Offense,2,1.86%,Potency,1,1.25%,Defense,1,Barriss Offee
+97,5.0,1.0,5.0,15-B,5.88% Offense,3.04%,Protection,2,61,Offense,2,3.76%,Critical Chance,2,7,Defense,1,Nightsister Initiate
+98,6.0,1.0,5.0,15-C,5.88% Offense,11,Speed,2,39,Offense,1,14,Defense,2,1.59%,Potency,1,Darth Traya
+99,6.0,1.0,5.0,15-C,5.88% Offense,3.87%,Critical Chance,2,7,Speed,2,416,Health,1,1.96%,Tenacity,1,Wampa
+100,6.0,1.0,5.0,15-C,5.88% Offense,17,Defense,2,9,Speed,2,1.53%,Protection,1,1.45%,Potency,1,Biggs Darklighter
+101,6.0,1.0,5.0,15-B,5.88% Offense,1.85%,Tenacity,1,3.75%,Defense,3,10,Speed,2,612,Protection,1,Lando Calrissian
+102,6.0,1.0,5.0,12-C,4.75% Offense,8,Speed,2,14,Defense,2,2.22%,Tenacity,1,747,Protection,1,Dathcha
+103,6.0,1.0,5.0,15-B,5.88% Offense,4,Speed,1,1.18%,Defense,1,17,Defense,2,2074,Protection,3,Clone Sergeant - Phase I
+104,6.0,1.0,5.0,15-C,5.88% Offense,5.52%,Critical Chance,3,2.17%,Potency,1,402,Health,1,502,Protection,1,TIE Fighter Pilot
+105,6.0,1.0,5.0,15-A,5.88% Offense,2.51%,Defense,2,14,Speed,3,574,Health,2,26,Offense,1,Rey (Scavenger)
+106,6.0,1.0,5.0,15-C,5.88% Offense,10,Speed,3,24,Offense,1,1.41%,Potency,1,1.27%,Tenacity,1,Chirrut Îmwe
+107,6.0,1.0,5.0,15-C,5.88% Offense,3.27%,Potency,2,10,Speed,2,1.57%,Critical Chance,1,470,Protection,1,Kylo Ren
+108,6.0,1.0,5.0,15-A,5.88% Offense,5,Speed,1,4.18%,Tenacity,2,2%,Defense,2,103,Offense,3,Visas Marr
+109,6.0,1.0,5.0,15-D,5.88% Offense,7,Speed,2,1.16%,Tenacity,1,42,Offense,1,524,Protection,1,Obi-Wan Kenobi (Old Ben)
+110,6.0,1.0,5.0,15-C,5.88% Offense,2.81%,Defense,2,8,Speed,2,2.01%,Tenacity,1,2.1%,Critical Chance,1,Rebel Officer Leia Organa
+111,6.0,1.0,5.0,15-A,5.88% Offense,1.19%,Health,2,521,Protection,1,14,Speed,3,18,Defense,2,Chewbacca
+112,6.0,1.0,5.0,15-B,5.88% Offense,69,Offense,2,3.83%,Protection,2,3.38%,Tenacity,2,5,Speed,1,Wedge Antilles
+113,6.0,1.0,5.0,15-A,5.88% Offense,3.62%,Tenacity,2,2.49%,Defense,2,3,Speed,1,1024,Health,3,Cad Bane
+114,6.0,1.0,5.0,15-C,5.88% Offense,1.65%,Tenacity,1,93,Offense,3,331,Health,1,1.47%,Defense,1,Stormtrooper
+115,6.0,1.0,5.0,15-A,5.88% Offense,9,Defense,1,2.71%,Health,3,13,Speed,3,1.98%,Tenacity,1,R2-D2
+116,6.0,1.0,6.0,15-E,8.5% Offense,20,Speed,4,18,Defense,2,2.37%,Tenacity,1,1.92%,Protection,1,Grand Master Yoda
+117,6.0,1.0,5.0,15-A,5.88% Offense,28,Defense,4,0.91%,Health,1,2.93%,Defense,2,3,Speed,1,Ewok Elder
+118,6.0,1.0,6.0,15-E,8.5% Offense,3.19%,Health,2,17,Speed,3,5.78%,Defense,2,2.76%,Protection,1,Grand Admiral Thrawn
+119,6.0,1.0,5.0,15-C,5.88% Offense,1155,Protection,2,11,Speed,2,2.07%,Potency,1,41,Offense,1,Sun Fac
+120,6.0,1.0,5.0,15-B,5.88% Offense,13,Defense,2,5.09%,Tenacity,3,4,Speed,1,358,Health,1,Kanan Jarrus
+121,6.0,1.0,5.0,15-A,5.88% Offense,3.69%,Protection,3,1.23%,Potency,1,607,Health,2,6,Speed,2,Paploo
+122,6.0,1.0,6.0,15-E,8.5% Offense,6.56%,Defense,2,2.27%,Health,2,43,Offense,1,17,Speed,3,HK-47
+123,7.0,1.0,5.0,15-B,5.88% Offense,2.85%,Critical Chance,2,763,Health,2,8,Speed,2,5,Defense,1,Poe Dameron
+124,7.0,1.0,5.0,15-B,5.88% Offense,3.57%,Critical Chance,2,1.43%,Defense,1,96,Offense,3,1.67%,Potency,1,Resistance Trooper
+125,7.0,1.0,5.0,15-C,5.88% Offense,631,Health,2,3.29%,Critical Chance,2,1.59%,Protection,1,1.54%,Defense,1,Resistance Pilot
+126,7.0,1.0,5.0,15-A,5.88% Offense,7,Speed,2,5.11%,Critical Chance,3,4.01%,Potency,2,257,Health,1,Princess Leia
+127,7.0,1.0,6.0,15-E,8.5% Offense,19,Speed,4,1362,Protection,2,2.16%,Potency,1,2.42%,Protection,1,Darth Malak
+128,7.0,1.0,5.0,15-C,5.88% Offense,71,Offense,2,18,Defense,2,0.95%,Defense,1,4,Speed,1,Teebo
+129,7.0,1.0,5.0,15-A,5.88% Offense,5.09%,Potency,3,25,Offense,1,1933,Protection,3,4,Speed,1,Bistan
+130,7.0,1.0,5.0,15-C,5.88% Offense,3.14%,Protection,2,9,Speed,2,1.17%,Critical Chance,1,347,Health,1,Poggle the Lesser
+131,7.0,1.0,5.0,15-A,5.88% Offense,5%,Potency,3,6,Speed,2,1216,Protection,2,1.2%,Critical Chance,1,Nute Gunray
+132,7.0,1.0,5.0,15-B,5.88% Offense,109,Offense,3,1.83%,Protection,1,2.77%,Potency,2,1.04%,Defense,1,Talia
+133,7.0,1.0,5.0,15-A,5.88% Offense,1.64%,Protection,1,108,Offense,3,21,Defense,3,3,Speed,1,First Order Stormtrooper
+134,7.0,1.0,5.0,15-A,5.88% Offense,3.67%,Protection,2,14,Speed,3,3.11%,Potency,2,1.75%,Critical Chance,1,T3-M4
+135,8.0,1.0,5.0,15-B,5.88% Offense,1.81%,Protection,1,2.88%,Critical Chance,2,1.23%,Potency,1,13,Speed,3,Sith Trooper
+136,8.0,1.0,5.0,15-A,5.88% Offense,83,Offense,2,1.79%,Critical Chance,1,10,Speed,3,2.84%,Defense,2,Ewok Scout
+137,8.0,1.0,5.0,15-E,5.88% Offense,1.67%,Critical Chance,1,798,Protection,1,1.19%,Protection,1,378,Health,1,Enfys Nest
+138,1.0,2.0,5.0,15-B,30 Speed,1.07%,Health,1,118,Offense,3,1.33%,Potency,1,0.75%,Offense,2,General Kenobi
+139,1.0,2.0,5.0,15-C,30 Speed,1.86%,Tenacity,1,22,Defense,3,44,Offense,1,1.39%,Potency,1,Stormtrooper Han
+140,1.0,2.0,5.0,15-C,30 Speed,1.77%,Health,2,771,Health,2,780,Protection,1,2.12%,Potency,1,C-3PO
+141,1.0,2.0,5.0,15-C,30 Speed,81,Offense,2,18,Defense,2,655,Protection,1,292,Health,1,Paploo
+142,1.0,2.0,5.0,15-E,30 Speed,0.62%,Health,1,0.35%,Offense,1,30,Offense,1,1.25%,Protection,1,IG-100 MagnaGuard
+143,1.0,2.0,5.0,15-C,30 Speed,311,Health,1,1.02%,Offense,3,1.88%,Protection,1,8,Defense,1,Plo Koon
+144,1.0,2.0,5.0,15-C,30 Speed,1.22%,Defense,1,1332,Protection,2,2.06%,Tenacity,1,3.36%,Critical Chance,2,"CT-5555 ""Fives"""
+145,1.0,2.0,5.0,15-C,30 Speed,1.19%,Tenacity,1,570,Health,2,17,Defense,2,2.07%,Critical Chance,1,Nute Gunray
+146,1.0,2.0,5.0,15-C,30 Speed,0.89%,Health,1,3.7%,Critical Chance,2,1.82%,Tenacity,1,2.99%,Protection,2,Kylo Ren (Unmasked)
+147,1.0,2.0,5.0,15-B,30 Speed,3.16%,Tenacity,2,3.67%,Potency,2,69,Offense,2,0.7%,Health,1,Juhani
+148,1.0,2.0,5.0,15-C,30 Speed,0.65%,Health,1,1.37%,Tenacity,1,2.24%,Defense,2,3.23%,Potency,2,Sun Fac
+149,1.0,2.0,5.0,15-C,30 Speed,422,Health,1,1501,Protection,2,0.55%,Offense,1,66,Offense,2,Padmé Amidala
+150,1.0,2.0,5.0,15-C,30 Speed,1.33%,Critical Chance,1,0.65%,Health,1,0.7%,Offense,2,2.31%,Tenacity,2,Colonel Starck
+151,1.0,2.0,5.0,15-B,30 Speed,723,Health,2,3.8%,Potency,2,2.6%,Critical Chance,2,7,Defense,1,Carth Onasi
+152,1.0,2.0,5.0,15-C,30 Speed,1463,Protection,2,17,Defense,2,1.57%,Protection,1,411,Health,1,Shoretrooper
+153,1.0,2.0,5.0,15-A,30 Speed,0.94%,Offense,2,898,Health,3,2.02%,Tenacity,1,79,Offense,2,First Order Officer
+154,1.0,2.0,5.0,15-D,30 Speed,3.17%,Potency,2,0.56%,Offense,1,8,Defense,1,41,Offense,1,Logray
+155,1.0,2.0,5.0,15-D,30 Speed,1.25%,Health,2,0.49%,Offense,1,1.99%,Tenacity,1,513,Protection,1,Ahsoka Tano
+156,1.0,2.0,5.0,15-C,30 Speed,6,Defense,1,0.47%,Offense,1,2.46%,Health,3,399,Health,1,Jawa Scavenger
+157,1.0,2.0,5.0,15-C,5.88% Health,32,Offense,1,7,Speed,2,393,Health,1,0.89%,Offense,2,Nightsister Zombie
+158,1.0,2.0,5.0,15-C,30 Speed,0.72%,Health,1,1032,Health,3,2.04%,Critical Chance,1,0.41%,Offense,1,Count Dooku
+159,1.0,2.0,5.0,15-C,30 Speed,1.97%,Tenacity,1,2.05%,Defense,2,753,Health,2,1.41%,Critical Chance,1,Imperial Probe Droid
+160,1.0,2.0,5.0,15-A,23.5% Protection,4.99%,Tenacity,3,12,Speed,3,0.87%,Health,1,1.88%,Potency,1,Obi-Wan Kenobi (Old Ben)
+161,1.0,2.0,5.0,15-C,30 Speed,3.06%,Defense,2,4.32%,Critical Chance,2,1.06%,Health,1,1.46%,Tenacity,1,Sith Trooper
+162,1.0,2.0,5.0,15-C,30 Speed,4.53%,Potency,3,1.25%,Defense,1,8,Defense,1,1.53%,Protection,1,Range Trooper
+163,1.0,2.0,5.0,15-C,30 Speed,76,Offense,2,1.23%,Protection,1,1.75%,Potency,1,3.37%,Critical Chance,2,Hoth Rebel Scout
+164,1.0,2.0,5.0,15-C,30 Speed,15,Defense,2,2.96%,Protection,2,699,Protection,1,1.79%,Potency,1,Darth Sion
+165,1.0,2.0,5.0,15-C,30 Speed,1.75%,Protection,1,4.62%,Tenacity,3,0.52%,Offense,1,35,Offense,1,Magmatrooper
+166,1.0,2.0,5.0,15-C,30 Speed,1.73%,Potency,1,1.5%,Critical Chance,1,0.78%,Health,1,5.13%,Protection,3,Darth Vader
+167,1.0,2.0,5.0,15-B,30 Speed,8,Defense,1,2.32%,Protection,2,3.69%,Defense,3,1.38%,Tenacity,1,Jolee Bindo
+168,1.0,2.0,5.0,15-C,30 Speed,16,Defense,3,1.98%,Protection,1,482,Protection,1,1.52%,Defense,1,Vandor Chewbacca
+169,1.0,2.0,5.0,15-B,30 Speed,3.48%,Protection,2,84,Offense,3,0.7%,Health,1,263,Health,1,Amilyn Holdo
+170,1.0,2.0,5.0,15-A,23.5% Protection,537,Protection,1,14,Defense,2,615,Health,2,11,Speed,3,Baze Malbus
+171,1.0,2.0,5.0,15-B,5.88% Offense,14,Speed,3,3.3%,Protection,2,45,Offense,1,1.1%,Health,1,Clone Wars Chewbacca
+172,1.0,2.0,5.0,15-C,30 Speed,3.62%,Potency,2,3.1%,Protection,2,0.55%,Offense,1,257,Health,1,Qui-Gon Jinn
+173,1.0,2.0,5.0,15-C,30 Speed,2.26%,Defense,2,68,Offense,2,286,Health,1,2.02%,Critical Chance,1,Jedi Knight Anakin
+174,1.0,2.0,5.0,15-C,30 Speed,656,Protection,1,55,Offense,2,0.64%,Health,1,2.55%,Defense,2,Captain Phasma
+175,1.0,2.0,5.0,15-C,30 Speed,1.55%,Tenacity,1,3.5%,Defense,3,298,Health,1,1.45%,Critical Chance,1,Ewok Elder
+176,1.0,2.0,6.0,15-E,16% Health,17,Speed,3,3.38%,Potency,2,9,Defense,1,700,Health,2,General Grievous
+177,1.0,2.0,5.0,15-C,30 Speed,3.44%,Potency,2,0.47%,Offense,1,3.56%,Tenacity,2,1.47%,Defense,1,Zaalbar
+178,1.0,2.0,5.0,15-C,30 Speed,0.37%,Offense,1,2%,Defense,2,3.17%,Potency,2,1.54%,Protection,1,Boba Fett
+179,1.0,2.0,5.0,15-D,30 Speed,3.54%,Potency,2,0.64%,Health,1,0.56%,Offense,1,588,Protection,1,B2 Super Battle Droid
+180,1.0,2.0,5.0,15-C,30 Speed,1.32%,Critical Chance,1,2.57%,Defense,2,11,Defense,2,351,Health,1,Poe Dameron
+181,2.0,2.0,5.0,15-A,30 Speed,15,Defense,2,3.14%,Critical Chance,2,4.8%,Protection,3,0.76%,Health,1,Jedi Knight Revan
+182,2.0,2.0,5.0,15-E,30 Speed,1.6%,Protection,1,348,Health,1,0.34%,Offense,1,490,Protection,1,Sabine Wren
+183,2.0,2.0,5.0,15-A,30 Speed,22,Defense,3,3.6%,Potency,2,28,Offense,1,1196,Protection,2,Young Han Solo
+184,2.0,2.0,5.0,15-E,30 Speed,1.86%,Potency,1,0.76%,Health,1,1.3%,Defense,1,2.24%,Tenacity,1,Darth Sidious
+185,2.0,2.0,5.0,15-A,30 Speed,98,Offense,3,1146,Protection,2,1.41%,Potency,1,3.28%,Protection,2,Finn
+186,2.0,2.0,5.0,15-A,30 Speed,1053,Health,3,5,Defense,1,86,Offense,2,2.59%,Protection,2,Canderous Ordo
+187,2.0,2.0,5.0,15-A,30 Speed,4.24%,Defense,3,588,Health,2,12,Defense,2,1.19%,Potency,1,TIE Fighter Pilot
+188,2.0,2.0,5.0,15-C,30 Speed,1985,Protection,3,0.38%,Offense,1,1.74%,Potency,1,8,Defense,1,"CT-21-0408 ""Echo"""
+189,2.0,2.0,6.0,15-E,8.5% Offense,22,Speed,4,27,Offense,1,5.35%,Tenacity,2,317,Health,1,Talia
+190,2.0,2.0,5.0,15-A,30 Speed,1.1%,Offense,2,2.32%,Defense,2,3.13%,Potency,2,3.23%,Tenacity,2,Wicket
+191,2.0,2.0,5.0,15-B,30 Speed,3.42%,Potency,2,1.3%,Offense,3,1.67%,Defense,1,25,Offense,1,Droideka
+192,2.0,2.0,5.0,15-E,30 Speed,6,Defense,1,1.61%,Protection,1,1.2%,Defense,1,262,Health,1,Jedi Knight Guardian
+193,2.0,2.0,5.0,15-D,30 Speed,3.26%,Potency,2,23,Offense,1,1.22%,Critical Chance,1,719,Protection,1,Darth Maul
+194,2.0,2.0,5.0,15-A,30 Speed,5.49%,Potency,3,774,Protection,1,3.09%,Critical Chance,2,14,Defense,2,Veteran Smuggler Han Solo
+195,2.0,2.0,5.0,15-C,30 Speed,3.57%,Tenacity,2,15,Defense,2,1.44%,Critical Chance,1,32,Offense,1,Jawa Engineer
+196,2.0,2.0,5.0,15-D,30 Speed,1.57%,Health,2,1.26%,Critical Chance,1,785,Protection,1,28,Offense,1,First Order Executioner
+197,2.0,2.0,5.0,15-D,30 Speed,3.23%,Potency,2,2.11%,Critical Chance,1,575,Protection,1,36,Offense,1,Chief Chirpa
+198,2.0,2.0,5.0,15-A,5.88% Offense,0.96%,Defense,1,13,Defense,2,813,Protection,1,7.15%,Critical Chance,4,Ima-Gun Di
+199,2.0,2.0,5.0,15-A,30 Speed,3.13%,Defense,3,2.08%,Potency,1,1.02%,Health,1,112,Offense,3,Mission Vao
+200,2.0,2.0,5.0,15-E,30 Speed,6,Defense,1,332,Health,1,1.73%,Tenacity,1,0.31%,Offense,1,Tusken Raider
+201,2.0,2.0,5.0,15-E,30 Speed,1.16%,Defense,1,0.49%,Offense,1,1.15%,Critical Chance,1,440,Protection,1,Director Krennic
+202,2.0,2.0,5.0,15-A,30 Speed,3.77%,Potency,2,2%,Tenacity,1,1027,Health,3,2.16%,Health,2,Rebel Officer Leia Organa
+203,2.0,2.0,5.0,15-A,30 Speed,17,Defense,2,662,Protection,1,8.21%,Tenacity,4,1.65%,Potency,1,Aurra Sing
+204,2.0,2.0,5.0,15-C,30 Speed,1.35%,Offense,3,1.6%,Tenacity,1,1.59%,Potency,1,422,Protection,1,Han Solo
+205,3.0,2.0,5.0,15-A,30 Speed,1.54%,Protection,1,561,Health,2,19,Defense,3,1140,Protection,2,L3-37
+206,3.0,2.0,5.0,15-A,30 Speed,1.48%,Offense,3,51,Offense,2,3.54%,Critical Chance,2,1.21%,Protection,1,Ezra Bridger
+207,4.0,2.0,5.0,15-A,30 Speed,3.24%,Tenacity,2,16,Defense,2,3.57%,Potency,2,1530,Protection,2,Darth Nihilus
+208,4.0,2.0,5.0,15-C,30 Speed,2.7%,Tenacity,2,14,Defense,2,42,Offense,1,1.68%,Potency,1,Mother Talzin
+209,4.0,2.0,5.0,15-E,30 Speed,1.4%,Defense,1,1.8%,Protection,1,0.59%,Health,1,2.05%,Potency,1,Dengar
+210,4.0,2.0,5.0,15-E,30 Speed,1.66%,Tenacity,1,1.27%,Defense,1,242,Health,1,8,Defense,1,Resistance Pilot
+211,4.0,2.0,5.0,15-C,30 Speed,22,Defense,3,1.89%,Critical Chance,1,28,Offense,1,1.18%,Defense,1,Hermit Yoda
+212,4.0,2.0,5.0,15-E,30 Speed,1.8%,Potency,1,1.66%,Tenacity,1,443,Protection,1,224,Health,1,Young Lando Calrissian
+213,4.0,2.0,6.0,15-E,32 Speed,5.49%,Potency,2,89,Offense,2,4.97%,Protection,2,25,Defense,2,Bastila Shan (Fallen)
+214,4.0,2.0,6.0,15-E,32 Speed,1532,Health,4,15,Defense,1,69,Offense,2,776,Protection,1,Darth Malak
+215,4.0,2.0,5.0,15-D,30 Speed,1.45%,Health,2,9,Defense,1,1.64%,Defense,1,0.43%,Offense,1,Bossk
+216,4.0,2.0,5.0,15-E,30 Speed,733,Protection,1,0.33%,Offense,1,1.4%,Tenacity,1,1.85%,Potency,1,Jawa
+217,4.0,2.0,5.0,15-E,30 Speed,753,Protection,1,33,Offense,1,1.13%,Tenacity,1,1.79%,Potency,1,Luminara Unduli
+218,4.0,2.0,5.0,15-E,30 Speed,35,Offense,1,366,Health,1,1.56%,Potency,1,0.36%,Offense,1,Jedi Consular
+219,4.0,2.0,5.0,15-E,30 Speed,39,Offense,1,1.7%,Defense,1,0.31%,Offense,1,1.97%,Tenacity,1,Chief Nebit
+220,4.0,2.0,5.0,15-E,30 Speed,0.83%,Health,1,772,Protection,1,31,Offense,1,1.16%,Defense,1,Savage Opress
+221,4.0,2.0,5.0,15-D,30 Speed,1.82%,Health,2,469,Protection,1,1.61%,Protection,1,1.99%,Tenacity,1,Scarif Rebel Pathfinder
+222,4.0,2.0,5.0,15-C,30 Speed,1.95%,Protection,1,5.84%,Critical Chance,3,0.88%,Defense,1,0.48%,Offense,1,Geonosian Spy
+223,4.0,2.0,5.0,15-E,30 Speed,1.48%,Potency,1,1%,Health,1,7,Defense,1,2.2%,Tenacity,1,"CT-7567 ""Rex"""
+224,4.0,2.0,5.0,15-E,30 Speed,677,Protection,1,1.79%,Potency,1,2.18%,Critical Chance,1,2.01%,Protection,1,BB-8
+225,4.0,2.0,6.0,15-E,32 Speed,10,Defense,1,53,Offense,2,905,Health,3,4.85%,Potency,2,Darth Revan
+226,4.0,2.0,5.0,15-B,30 Speed,3.67%,Defense,3,39,Offense,1,1.28%,Health,2,388,Health,1,Geonosian Brood Alpha
+227,4.0,2.0,5.0,15-E,30 Speed,0.54%,Offense,1,0.96%,Defense,1,605,Protection,1,8,Defense,1,Veteran Smuggler Chewbacca
+228,4.0,2.0,5.0,15-D,30 Speed,303,Health,1,1.82%,Tenacity,1,1.83%,Potency,1,3.29%,Critical Chance,2,Shaak Ti
+229,4.0,2.0,5.0,15-E,30 Speed,1.83%,Critical Chance,1,784,Protection,1,1.33%,Protection,1,367,Health,1,Nightsister Spirit
+230,4.0,2.0,5.0,15-D,30 Speed,0.87%,Offense,2,1.69%,Tenacity,1,5,Defense,1,1.18%,Critical Chance,1,Grand Admiral Thrawn
+231,4.0,2.0,6.0,15-E,32 Speed,5.72%,Protection,3,2.41%,Offense,2,66,Offense,2,2.25%,Potency,1,Grand Master Yoda
+232,4.0,2.0,5.0,15-C,30 Speed,31,Offense,1,1.24%,Health,2,18,Defense,2,552,Protection,1,Emperor Palpatine
+233,4.0,2.0,5.0,15-C,30 Speed,1.42%,Protection,1,2.47%,Health,3,352,Health,1,1.8%,Potency,1,Sith Marauder
+234,4.0,2.0,5.0,15-D,30 Speed,1.4%,Defense,1,0.89%,Offense,2,1.73%,Critical Chance,1,1.59%,Protection,1,Qi'ra
+235,4.0,2.0,5.0,15-B,30 Speed,3.21%,Potency,2,5.27%,Critical Chance,3,0.32%,Offense,1,1.01%,Defense,1,Grand Moff Tarkin
+236,4.0,2.0,5.0,15-E,30 Speed,1.53%,Tenacity,1,704,Protection,1,0.36%,Offense,1,1.37%,Potency,1,IG-86 Sentinel Droid
+237,4.0,2.0,5.0,15-E,30 Speed,2.04%,Tenacity,1,1.37%,Critical Chance,1,0.77%,Health,1,1.69%,Defense,1,First Order SF TIE Pilot
+238,4.0,2.0,5.0,15-C,30 Speed,2.05%,Health,2,2.31%,Defense,2,1.21%,Potency,1,0.46%,Offense,1,Ahsoka Tano (Fulcrum)
+239,4.0,2.0,5.0,15-D,30 Speed,2.07%,Defense,2,27,Offense,1,1.42%,Tenacity,1,2.25%,Protection,1,General Veers
+240,4.0,2.0,5.0,15-B,30 Speed,2.74%,Critical Chance,2,3.43%,Potency,2,3.44%,Protection,2,0.52%,Offense,1,Bastila Shan
+241,4.0,2.0,5.0,15-D,30 Speed,1.27%,Protection,1,1.94%,Potency,1,344,Health,1,3.32%,Critical Chance,2,Greedo
+242,4.0,2.0,5.0,15-D,30 Speed,1532,Protection,2,1.36%,Potency,1,5,Defense,1,2%,Critical Chance,1,Jango Fett
+243,4.0,2.0,5.0,15-E,30 Speed,1.62%,Potency,1,6,Defense,1,1.99%,Tenacity,1,1.81%,Critical Chance,1,Zam Wesell
+244,4.0,2.0,5.0,15-E,30 Speed,7,Defense,1,1.36%,Protection,1,1.14%,Defense,1,1.9%,Critical Chance,1,Embo
+245,4.0,2.0,5.0,15-E,30 Speed,230,Health,1,1.24%,Tenacity,1,582,Protection,1,7,Defense,1,Dathcha
+246,4.0,2.0,5.0,15-B,30 Speed,2.15%,Tenacity,1,0.79%,Health,1,3.33%,Defense,3,3.73%,Critical Chance,2,B1 Battle Droid
+247,4.0,2.0,5.0,15-C,30 Speed,1.98%,Critical Chance,1,3.16%,Tenacity,2,1372,Protection,2,0.44%,Offense,1,K-2SO
+248,5.0,2.0,5.0,15-D,30 Speed,1.66%,Health,2,1.63%,Critical Chance,1,733,Protection,1,1.49%,Defense,1,Jyn Erso
+249,5.0,2.0,5.0,15-B,30 Speed,75,Offense,2,2.38%,Defense,2,1.6%,Health,2,494,Protection,1,Aayla Secura
+250,5.0,2.0,5.0,15-D,30 Speed,1.35%,Health,2,44,Offense,1,1.7%,Critical Chance,1,247,Health,1,Lando Calrissian
+251,5.0,2.0,5.0,15-C,30 Speed,1.06%,Defense,1,6.24%,Potency,3,7,Defense,1,499,Protection,1,IG-88
+252,5.0,2.0,5.0,15-E,30 Speed,500,Protection,1,226,Health,1,1.78%,Potency,1,2.19%,Critical Chance,1,Geonosian Soldier
+253,5.0,2.0,5.0,15-E,30 Speed,316,Health,1,6,Defense,1,1.74%,Critical Chance,1,2.14%,Tenacity,1,First Order TIE Pilot
+254,5.0,2.0,5.0,15-B,30 Speed,980,Health,3,2.03%,Critical Chance,1,2.85%,Defense,2,695,Protection,1,Cad Bane
+255,5.0,2.0,5.0,15-D,30 Speed,1371,Protection,2,29,Offense,1,277,Health,1,1.64%,Potency,1,Hoth Rebel Soldier
+256,5.0,2.0,5.0,15-A,30 Speed,2.41%,Defense,2,66,Offense,2,2.7%,Potency,2,2.76%,Critical Chance,2,Nightsister Acolyte
+257,5.0,2.0,5.0,15-E,5.88% Offense,1.21%,Critical Chance,1,247,Health,1,5,Speed,1,2.1%,Protection,1,Clone Sergeant - Phase I
+258,5.0,2.0,5.0,15-E,30 Speed,1.35%,Tenacity,1,1.04%,Defense,1,1.09%,Health,1,2.04%,Protection,1,Chopper
+259,5.0,2.0,5.0,15-A,30 Speed,29,Offense,1,1.52%,Defense,1,5.8%,Critical Chance,4,16,Defense,2,Nightsister Initiate
+260,5.0,2.0,5.0,15-A,30 Speed,0.76%,Offense,2,2.37%,Critical Chance,2,4.17%,Tenacity,3,615,Protection,1,R2-D2
+261,5.0,2.0,5.0,15-E,30 Speed,1.62%,Protection,1,1.25%,Defense,1,41,Offense,1,1.17%,Tenacity,1,Kylo Ren
+262,5.0,2.0,6.0,15-E,32 Speed,2.52%,Tenacity,1,6.46%,Protection,3,138,Offense,3,1.61%,Critical Chance,1,Commander Luke Skywalker
+263,6.0,2.0,5.0,15-C,30 Speed,1.21%,Protection,1,1873,Protection,3,0.51%,Offense,1,24,Offense,1,Ewok Scout
+264,6.0,2.0,5.0,15-D,30 Speed,3.72%,Protection,2,6,Defense,1,24,Offense,1,1.43%,Critical Chance,1,Rey (Jedi Training)
+265,6.0,2.0,5.0,15-E,30 Speed,0.77%,Health,1,650,Protection,1,1.92%,Potency,1,37,Offense,1,Stormtrooper
+266,6.0,2.0,5.0,15-B,5.88% Offense,2.03%,Critical Chance,1,14,Defense,2,1.33%,Potency,1,13,Speed,3,Resistance Trooper
+267,6.0,2.0,5.0,15-D,30 Speed,4.06%,Tenacity,2,0.5%,Offense,1,0.98%,Defense,1,43,Offense,1,Coruscant Underworld Police
+268,6.0,2.0,5.0,15-E,30 Speed,1.99%,Protection,1,253,Health,1,33,Offense,1,571,Protection,1,Biggs Darklighter
+269,6.0,2.0,5.0,15-E,30 Speed,349,Health,1,1.05%,Health,1,1.07%,Defense,1,1.45%,Protection,1,Mace Windu
+270,6.0,2.0,5.0,15-B,30 Speed,5.23%,Critical Chance,3,70,Offense,2,2.11%,Protection,1,1.74%,Tenacity,1,"CC-2224 ""Cody"""
+271,6.0,2.0,5.0,15-B,30 Speed,1.79%,Health,2,3.78%,Critical Chance,2,4.12%,Protection,2,37,Offense,1,"Garazeb ""Zeb"" Orrelios"
+272,6.0,2.0,5.0,15-D,30 Speed,2.98%,Defense,2,293,Health,1,0.69%,Health,1,451,Protection,1,Captain Han Solo
+273,6.0,2.0,5.0,15-C,30 Speed,3.57%,Defense,3,433,Protection,1,1.91%,Critical Chance,1,6,Defense,1,Wedge Antilles
+274,6.0,2.0,5.0,15-B,30 Speed,1.55%,Health,2,1.41%,Protection,1,23,Defense,3,508,Protection,1,Snowtrooper
+275,6.0,2.0,5.0,15-C,30 Speed,28,Offense,1,5.62%,Potency,3,8,Defense,1,0.62%,Health,1,Gar Saxon
+276,6.0,2.0,5.0,15-E,30 Speed,0.72%,Health,1,1.64%,Potency,1,1.68%,Defense,1,2.21%,Protection,1,Kanan Jarrus
+277,6.0,2.0,5.0,15-D,30 Speed,4.1%,Tenacity,2,389,Health,1,0.62%,Health,1,45,Offense,1,Hera Syndulla
+278,6.0,2.0,5.0,15-C,30 Speed,989,Health,3,1.54%,Protection,1,24,Offense,1,2.17%,Critical Chance,1,Barriss Offee
+279,6.0,2.0,5.0,15-A,5.88% Offense,2.67%,Defense,2,2.53%,Protection,2,3,Speed,1,89,Offense,3,Visas Marr
+280,6.0,2.0,5.0,15-C,30 Speed,2.13%,Critical Chance,1,74,Offense,2,4.37%,Protection,2,2.23%,Tenacity,1,Chewbacca
+281,6.0,2.0,6.0,15-E,32 Speed,136,Offense,3,308,Health,1,0.94%,Offense,1,8.02%,Tenacity,3,HK-47
+282,6.0,2.0,5.0,15-C,30 Speed,286,Health,1,4.3%,Defense,3,1.31%,Potency,1,0.9%,Health,1,Admiral Ackbar
+283,6.0,2.0,5.0,15-A,5.88% Offense,106,Offense,3,10,Speed,2,1.8%,Health,2,8,Defense,1,Asajj Ventress
+284,6.0,2.0,5.0,15-C,30 Speed,0.63%,Offense,2,756,Health,2,577,Protection,1,1.92%,Protection,1,Darth Traya
+285,6.0,2.0,5.0,15-A,30 Speed,1925,Protection,3,0.4%,Offense,1,667,Health,2,13,Defense,2,Wampa
+286,6.0,2.0,5.0,15-C,30 Speed,682,Health,2,1.8%,Health,2,0.38%,Offense,1,1.14%,Defense,1,Chirrut Îmwe
+287,6.0,2.0,5.0,15-C,30 Speed,802,Health,2,1470,Protection,2,0.41%,Offense,1,0.98%,Health,1,Death Trooper
+288,7.0,2.0,5.0,15-D,30 Speed,55,Offense,2,0.62%,Health,1,1.61%,Potency,1,1.77%,Critical Chance,1,Poggle the Lesser
+289,7.0,2.0,5.0,15-B,30 Speed,0.87%,Offense,2,14,Defense,2,2.63%,Potency,2,25,Offense,1,T3-M4
+290,7.0,2.0,5.0,15-A,5.88% Offense,13,Defense,2,2.79%,Potency,2,14,Speed,3,1.67%,Protection,1,Rey (Scavenger)
+291,7.0,2.0,5.0,15-D,30 Speed,1532,Protection,2,1.67%,Potency,1,0.57%,Health,1,0.54%,Offense,1,Princess Leia
+292,7.0,2.0,5.0,15-A,30 Speed,5.45%,Tenacity,3,62,Offense,2,1.45%,Critical Chance,1,470,Health,2,Old Daka
+293,7.0,2.0,5.0,15-A,5.88% Offense,803,Health,2,3.22%,Tenacity,2,5.26%,Potency,3,3,Speed,1,Bistan
+294,8.0,2.0,5.0,15-B,30 Speed,2.92%,Health,3,242,Health,1,2.56%,Defense,2,1.68%,Critical Chance,1,Royal Guard
+295,8.0,2.0,5.0,15-D,30 Speed,2.99%,Potency,2,1.23%,Critical Chance,1,1.06%,Health,1,6,Defense,1,Teebo
+296,8.0,2.0,5.0,15-B,30 Speed,359,Health,1,1891,Protection,3,3.13%,Protection,2,0.57%,Health,1,Sith Assassin
+297,8.0,2.0,5.0,15-B,5.88% Offense,1.31%,Critical Chance,1,3.96%,Protection,3,7,Speed,2,4,Defense,1,Enfys Nest
+298,8.0,2.0,5.0,15-C,30 Speed,78,Offense,2,2.92%,Critical Chance,2,219,Health,1,510,Protection,1,Pao
+299,8.0,2.0,5.0,15-D,30 Speed,2.89%,Defense,2,716,Protection,1,1.48%,Critical Chance,1,1.77%,Protection,1,Luke Skywalker (Farmboy)
+300,8.0,2.0,5.0,15-B,30 Speed,2.06%,Critical Chance,1,2.18%,Protection,1,68,Offense,2,4.75%,Potency,3,Cassian Andor
+301,8.0,2.0,4.0,15-B,26 Speed,69,Offense,3,0.88%,Health,1,2.87%,Tenacity,2,1.3%,Critical Chance,1,First Order Stormtrooper
+302,1.0,3.0,5.0,15-D,11.75% Defense,73,Offense,2,5,Speed,1,387,Health,1,0.43%,Offense,1,"CT-5555 ""Fives"""
+303,1.0,3.0,5.0,15-A,11.75% Defense,0.85%,Offense,2,1150,Health,4,1.89%,Protection,1,3,Speed,1,Shoretrooper
+304,1.0,3.0,5.0,15-C,11.75% Defense,8,Speed,2,3.11%,Tenacity,2,43,Offense,1,1.78%,Potency,1,Zaalbar
+305,1.0,3.0,5.0,15-A,11.75% Defense,1357,Protection,2,2.05%,Tenacity,1,13,Defense,2,13,Speed,3,Jedi Knight Anakin
+306,1.0,3.0,5.0,15-C,11.75% Defense,12,Defense,2,1.78%,Potency,1,1450,Protection,2,5,Speed,1,Jango Fett
+307,1.0,3.0,5.0,15-C,11.75% Defense,11,Speed,3,1.75%,Critical Chance,1,2.12%,Tenacity,1,419,Health,1,Range Trooper
+308,1.0,3.0,5.0,15-C,11.75% Defense,10,Speed,2,0.9%,Offense,2,2.22%,Tenacity,1,269,Health,1,Death Trooper
+309,1.0,3.0,5.0,15-D,11.75% Defense,6,Speed,2,613,Protection,1,1.92%,Critical Chance,1,2.19%,Tenacity,1,Juhani
+310,1.0,3.0,5.0,6-C,5% Defense,75,Offense,2,3.26%,Tenacity,2,Jawa Scavenger,,,,,,
+311,1.0,3.0,5.0,15-C,11.75% Defense,1.57%,Critical Chance,1,356,Health,1,8,Speed,2,2.69%,Tenacity,2,Nute Gunray
+312,1.0,3.0,5.0,15-A,11.75% Defense,2.73%,Tenacity,2,120,Offense,3,301,Health,1,11,Speed,2,Ahsoka Tano
+313,1.0,3.0,5.0,15-C,11.75% Defense,9,Speed,2,1.94%,Potency,1,1.75%,Tenacity,1,1.84%,Health,2,Old Daka
+314,1.0,3.0,5.0,15-C,11.75% Defense,3.47%,Critical Chance,2,2.05%,Protection,1,2.57%,Tenacity,2,4,Speed,1,Hera Syndulla
+315,1.0,3.0,5.0,15-C,11.75% Defense,7,Speed,2,15,Defense,2,0.42%,Offense,1,751,Protection,1,First Order Executioner
+316,1.0,3.0,5.0,15-D,11.75% Defense,3.05%,Critical Chance,2,32,Offense,1,300,Health,1,5,Speed,1,Kylo Ren
+317,1.0,3.0,5.0,12-D,9.5% Defense,3.06%,Tenacity,2,0.42%,Offense,1,1.83%,Potency,1,6,Defense,1,Qui-Gon Jinn
+318,1.0,3.0,5.0,15-C,11.75% Defense,1.8%,Health,2,1.45%,Potency,1,7,Speed,2,2.12%,Critical Chance,1,Kylo Ren (Unmasked)
+319,1.0,3.0,5.0,15-C,11.75% Defense,572,Protection,1,4,Speed,1,1.84%,Critical Chance,1,128,Offense,3,Nightsister Zombie
+320,1.0,3.0,5.0,15-B,11.75% Defense,1.68%,Critical Chance,1,1.8%,Health,2,8,Defense,1,12,Speed,3,Talia
+321,1.0,3.0,5.0,15-D,11.75% Defense,3.17%,Tenacity,2,5,Speed,1,1.44%,Potency,1,8,Defense,1,Darth Maul
+322,1.0,3.0,5.0,15-C,11.75% Defense,9,Speed,2,1.51%,Potency,1,2.73%,Tenacity,2,472,Protection,1,Carth Onasi
+323,1.0,3.0,6.0,15-E,20% Defense,591,Health,2,1.64%,Tenacity,1,21,Speed,4,40,Offense,1,Darth Malak
+324,1.0,3.0,5.0,15-B,11.75% Defense,1.91%,Protection,1,1048,Health,3,9,Speed,2,0.84%,Health,1,General Kenobi
+325,1.0,3.0,5.0,15-A,11.75% Defense,105,Offense,3,630,Health,2,5,Speed,1,3.87%,Tenacity,2,Padmé Amidala
+326,1.0,3.0,5.0,15-C,11.75% Defense,1.73%,Potency,1,5,Speed,1,2.85%,Protection,2,1.98%,Health,2,Vandor Chewbacca
+327,1.0,3.0,5.0,15-C,11.75% Defense,4,Speed,1,1.62%,Protection,1,657,Health,2,1.75%,Health,2,Royal Guard
+328,1.0,3.0,5.0,15-C,11.75% Defense,38,Offense,1,1190,Health,3,1.9%,Tenacity,1,1.14%,Protection,1,Baze Malbus
+329,1.0,3.0,5.0,15-C,11.75% Defense,3,Speed,1,1979,Protection,3,369,Health,1,2.18%,Tenacity,1,Kanan Jarrus
+330,1.0,3.0,5.0,15-A,11.75% Defense,1.35%,Offense,3,3.79%,Tenacity,2,1527,Protection,2,1.09%,Health,1,Chief Chirpa
+331,1.0,3.0,5.0,15-A,11.75% Defense,16,Speed,4,1.9%,Critical Chance,1,27,Offense,1,0.59%,Offense,2,Jolee Bindo
+332,1.0,3.0,5.0,15-C,11.75% Defense,1.34%,Critical Chance,1,11,Speed,2,82,Offense,2,1.61%,Potency,1,Darth Sion
+333,1.0,3.0,5.0,15-D,11.75% Defense,3.85%,Potency,2,1.66%,Critical Chance,1,23,Offense,1,4,Speed,1,Paploo
+334,1.0,3.0,5.0,15-A,11.75% Defense,8,Speed,2,94,Offense,3,3.58%,Critical Chance,2,469,Protection,1,Mother Talzin
+335,1.0,3.0,5.0,15-C,11.75% Defense,3.36%,Critical Chance,2,10,Speed,2,7,Defense,1,661,Protection,1,General Grievous
+336,2.0,3.0,5.0,6-C,5% Defense,8,Speed,2,1410,Protection,2,Veteran Smuggler Chewbacca,,,,,,
+337,2.0,3.0,5.0,15-B,11.75% Defense,1.12%,Offense,3,1.18%,Protection,1,8,Speed,2,1.42%,Critical Chance,1,Amilyn Holdo
+338,2.0,3.0,5.0,15-B,11.75% Defense,4.88%,Tenacity,3,8,Speed,2,1.41%,Potency,1,1.32%,Critical Chance,1,Dengar
+339,2.0,3.0,5.0,15-A,11.75% Defense,3.37%,Protection,2,1.43%,Tenacity,1,112,Offense,3,8,Speed,2,Han Solo
+340,2.0,3.0,5.0,15-C,11.75% Defense,9,Speed,2,3.5%,Protection,2,30,Offense,1,8,Defense,1,Finn
+341,2.0,3.0,5.0,15-A,11.75% Defense,5.42%,Critical Chance,3,16,Speed,3,0.85%,Health,1,1.22%,Tenacity,1,Jedi Knight Revan
+342,2.0,3.0,5.0,15-C,11.75% Defense,10,Speed,2,1.36%,Critical Chance,1,0.95%,Offense,2,1.78%,Tenacity,1,Wicket
+343,2.0,3.0,5.0,15-A,11.75% Defense,999,Protection,2,1.18%,Critical Chance,1,3.68%,Protection,2,11,Speed,3,Sun Fac
+344,2.0,3.0,5.0,15-D,11.75% Defense,12,Defense,2,5,Speed,1,0.37%,Offense,1,292,Health,1,Cad Bane
+345,2.0,3.0,5.0,15-A,11.75% Defense,1062,Health,3,0.43%,Offense,1,3.38%,Tenacity,2,8,Speed,2,Droideka
+346,2.0,3.0,6.0,15-E,20% Defense,1.25%,Offense,1,868,Health,2,19,Speed,4,1.58%,Tenacity,1,Grand Admiral Thrawn
+347,2.0,3.0,5.0,15-A,11.75% Defense,3.04%,Potency,2,13,Speed,3,1.49%,Tenacity,1,76,Offense,2,Imperial Probe Droid
+348,4.0,3.0,5.0,15-D,11.75% Defense,5,Speed,1,1.38%,Protection,1,7,Defense,1,3.78%,Potency,2,Scarif Rebel Pathfinder
+349,4.0,3.0,5.0,15-D,11.75% Defense,439,Protection,1,1.31%,Tenacity,1,14,Defense,2,5,Speed,1,Bistan
+350,4.0,3.0,5.0,15-D,11.75% Defense,2.71%,Potency,2,0.78%,Health,1,5,Speed,1,0.54%,Offense,1,"Garazeb ""Zeb"" Orrelios"
+351,4.0,3.0,5.0,15-A,11.75% Defense,0.85%,Offense,2,13,Speed,3,1.54%,Tenacity,1,3.54%,Critical Chance,2,Ezra Bridger
+352,4.0,3.0,5.0,15-C,11.75% Defense,10,Speed,2,42,Offense,1,0.85%,Offense,2,556,Protection,1,Stormtrooper Han
+353,4.0,3.0,5.0,15-B,11.75% Defense,1.41%,Protection,1,1.24%,Potency,1,11,Speed,2,2.73%,Health,3,Geonosian Spy
+354,4.0,3.0,5.0,15-A,11.75% Defense,104,Offense,4,10,Speed,2,5,Defense,1,1.42%,Critical Chance,1,Geonosian Soldier
+355,4.0,3.0,5.0,15-C,11.75% Defense,1.73%,Potency,1,5.84%,Critical Chance,3,5,Speed,1,1.29%,Tenacity,1,Nightsister Initiate
+356,4.0,3.0,5.0,15-D,11.75% Defense,7,Speed,2,1.96%,Protection,1,30,Offense,1,529,Protection,1,Sabine Wren
+357,4.0,3.0,5.0,15-B,11.75% Defense,4.43%,Protection,3,44,Offense,1,8,Speed,2,375,Health,1,Boba Fett
+358,4.0,3.0,5.0,15-B,11.75% Defense,8,Speed,2,3.64%,Potency,3,36,Offense,1,1.77%,Tenacity,1,First Order Officer
+359,4.0,3.0,5.0,15-C,11.75% Defense,3.56%,Protection,2,0.3%,Offense,1,1.06%,Health,1,11,Speed,2,L3-37
+360,4.0,3.0,5.0,15-A,11.75% Defense,0.53%,Offense,1,14,Speed,3,3.38%,Protection,2,13,Defense,2,Bastila Shan
+361,4.0,3.0,5.0,15-A,11.75% Defense,1.64%,Potency,1,1873,Protection,3,12,Speed,3,0.79%,Health,1,Darth Vader
+362,4.0,3.0,5.0,15-C,11.75% Defense,1.02%,Health,1,9,Speed,2,3.27%,Potency,2,769,Protection,1,B1 Battle Droid
+363,4.0,3.0,5.0,15-C,11.75% Defense,420,Health,1,6,Defense,1,9,Speed,2,75,Offense,2,Logray
+364,4.0,3.0,5.0,15-B,11.75% Defense,2.8%,Tenacity,2,2.02%,Protection,1,308,Health,1,13,Speed,3,Bossk
+365,4.0,3.0,6.0,15-E,20% Defense,2.28%,Offense,2,20,Speed,4,2.68%,Potency,1,2.39%,Protection,1,Darth Revan
+366,4.0,3.0,5.0,15-A,11.75% Defense,15,Speed,3,1.78%,Health,2,2.33%,Critical Chance,2,405,Health,1,Aayla Secura
+367,4.0,3.0,5.0,15-C,11.75% Defense,17,Defense,2,478,Protection,1,1.85%,Protection,1,10,Speed,2,Shaak Ti
+368,4.0,3.0,5.0,15-C,11.75% Defense,73,Offense,2,9,Speed,2,591,Protection,1,2.18%,Critical Chance,1,Grand Moff Tarkin
+369,4.0,3.0,5.0,15-B,11.75% Defense,9,Speed,2,2.99%,Critical Chance,2,1.63%,Tenacity,1,2.56%,Protection,2,Nightsister Spirit
+370,4.0,3.0,5.0,12-D,9.5% Defense,5,Speed,1,3.11%,Protection,2,9,Defense,1,529,Protection,1,Rebel Officer Leia Organa
+371,4.0,3.0,5.0,15-A,11.75% Defense,14,Speed,3,0.81%,Health,1,16,Defense,2,0.84%,Offense,2,Emperor Palpatine
+372,4.0,3.0,5.0,15-A,11.75% Defense,1.41%,Health,2,2.73%,Potency,2,32,Offense,1,13,Speed,3,Darth Nihilus
+373,4.0,3.0,5.0,15-B,11.75% Defense,13,Speed,3,1.92%,Tenacity,1,3.57%,Potency,2,33,Offense,1,C-3PO
+374,4.0,3.0,5.0,12-A,9.5% Defense,0.52%,Offense,1,3.99%,Protection,3,4.05%,Potency,2,4.11%,Critical Chance,2,"CT-21-0408 ""Echo"""
+375,4.0,3.0,5.0,15-C,11.75% Defense,3.18%,Potency,2,9,Speed,2,42,Offense,1,2.07%,Tenacity,1,BB-8
+376,4.0,3.0,5.0,15-D,11.75% Defense,8,Speed,2,9,Defense,1,576,Protection,1,1.96%,Tenacity,1,General Veers
+377,4.0,3.0,5.0,15-C,11.75% Defense,10,Speed,2,1.5%,Potency,1,470,Protection,1,4.17%,Tenacity,2,Count Dooku
+378,4.0,3.0,5.0,15-C,11.75% Defense,3.27%,Protection,2,9,Speed,2,1.14%,Potency,1,4,Defense,1,Geonosian Brood Alpha
+379,4.0,3.0,5.0,15-A,11.75% Defense,1.81%,Critical Chance,1,9,Defense,1,15,Speed,3,5.66%,Potency,3,Colonel Starck
+380,4.0,3.0,5.0,12-A,9.5% Defense,1.64%,Health,2,2.09%,Tenacity,1,90,Offense,2,1.27%,Offense,3,Zam Wesell
+381,4.0,3.0,5.0,15-C,11.75% Defense,5.06%,Potency,3,5,Speed,1,1.92%,Tenacity,1,446,Protection,1,Greedo
+382,4.0,3.0,5.0,15-C,11.75% Defense,0.37%,Offense,1,1.82%,Protection,1,3.93%,Potency,2,10,Speed,2,Canderous Ordo
+383,4.0,3.0,5.0,15-A,11.75% Defense,8,Speed,2,0.56%,Health,1,1.2%,Offense,3,636,Health,2,Ewok Elder
+384,4.0,3.0,5.0,15-C,11.75% Defense,481,Protection,1,1.47%,Protection,1,0.72%,Offense,2,10,Speed,2,K-2SO
+385,4.0,3.0,6.0,15-E,20% Defense,4.83%,Potency,2,20,Speed,4,13,Defense,1,510,Protection,1,Bastila Shan (Fallen)
+386,4.0,3.0,5.0,15-C,11.75% Defense,424,Health,1,1.28%,Critical Chance,1,10,Speed,2,1.66%,Health,2,Qi'ra
+387,4.0,3.0,5.0,15-A,11.75% Defense,1.77%,Tenacity,1,1.02%,Health,1,1.41%,Offense,3,13,Speed,3,Sith Marauder
+388,4.0,3.0,5.0,15-A,11.75% Defense,1.05%,Offense,2,15,Speed,3,0.85%,Health,1,2.66%,Critical Chance,2,"CT-7567 ""Rex"""
+389,4.0,3.0,6.0,15-E,20% Defense,1.69%,Protection,1,2.94%,Health,2,18,Speed,4,14,Defense,1,Grand Master Yoda
+390,4.0,3.0,5.0,15-D,11.75% Defense,69,Offense,2,5,Speed,1,1.27%,Protection,1,5,Defense,1,Clone Sergeant - Phase I
+391,5.0,3.0,5.0,15-A,11.75% Defense,5,Defense,1,15,Speed,3,1516,Protection,2,74,Offense,2,R2-D2
+392,5.0,3.0,5.0,15-A,11.75% Defense,3.56%,Potency,2,0.93%,Offense,2,72,Offense,2,9,Speed,2,Poe Dameron
+393,5.0,3.0,5.0,15-B,11.75% Defense,13,Speed,3,42,Offense,1,3.12%,Potency,2,5,Defense,1,Sith Trooper
+394,5.0,3.0,5.0,15-D,11.75% Defense,7,Speed,2,1.52%,Tenacity,1,1.2%,Potency,1,747,Protection,1,Chirrut Îmwe
+395,5.0,3.0,5.0,15-A,11.75% Defense,16,Speed,3,2.72%,Protection,2,62,Offense,2,0.71%,Health,1,IG-88
+396,5.0,3.0,5.0,15-D,11.75% Defense,8,Speed,2,1.93%,Protection,1,5,Defense,1,1.42%,Potency,1,TIE Fighter Pilot
+397,5.0,3.0,5.0,15-C,11.75% Defense,3.23%,Tenacity,2,7,Speed,2,639,Protection,1,2.06%,Protection,1,Barriss Offee
+398,5.0,3.0,5.0,15-D,11.75% Defense,7,Speed,2,1.46%,Potency,1,25,Offense,1,5,Defense,1,Jyn Erso
+399,5.0,3.0,5.0,15-A,11.75% Defense,59,Offense,2,1.27%,Tenacity,1,1351,Protection,2,2.78%,Health,3,Plo Koon
+400,6.0,3.0,5.0,15-A,11.75% Defense,6,Defense,1,2.51%,Protection,2,2.31%,Health,3,8,Speed,2,Cassian Andor
+401,6.0,3.0,5.0,15-B,11.75% Defense,11,Speed,2,13,Defense,2,3.58%,Tenacity,2,1.19%,Protection,1,Snowtrooper
+402,6.0,3.0,5.0,15-C,11.75% Defense,0.47%,Offense,1,11,Speed,3,9,Defense,1,34,Offense,1,Rey (Jedi Training)
+403,6.0,3.0,5.0,15-D,11.75% Defense,76,Offense,2,0.33%,Offense,1,4,Speed,1,2.18%,Critical Chance,1,Ahsoka Tano (Fulcrum)
+404,6.0,3.0,5.0,15-C,11.75% Defense,10,Speed,2,1.96%,Health,2,1.29%,Potency,1,600,Protection,1,Rey (Scavenger)
+405,6.0,3.0,5.0,15-D,11.75% Defense,3.41%,Potency,2,0.9%,Health,1,39,Offense,1,1.84%,Protection,1,Resistance Trooper
+406,6.0,3.0,5.0,15-A,11.75% Defense,3.29%,Critical Chance,2,15,Speed,3,1483,Protection,2,0.36%,Offense,1,Wampa
+407,6.0,3.0,5.0,15-C,11.75% Defense,10,Speed,2,3.04%,Critical Chance,2,393,Health,1,0.5%,Offense,1,Biggs Darklighter
+408,6.0,3.0,5.0,15-C,11.75% Defense,4.02%,Critical Chance,2,1260,Protection,2,37,Offense,1,1.03%,Health,1,First Order TIE Pilot
+409,6.0,3.0,4.0,15-C,8% Defense,216,Health,1,11,Speed,3,447,Protection,1,18,Offense,1,Wedge Antilles
+410,6.0,3.0,5.0,15-D,11.75% Defense,56,Offense,2,5,Defense,1,577,Protection,1,1.16%,Critical Chance,1,Mace Windu
+411,6.0,3.0,6.0,15-E,20% Defense,1.25%,Health,1,17,Speed,3,78,Offense,2,4.46%,Protection,2,HK-47
+412,6.0,3.0,5.0,15-C,11.75% Defense,1.48%,Critical Chance,1,101,Offense,3,3,Speed,1,493,Protection,1,Asajj Ventress
+413,6.0,3.0,5.0,15-A,11.75% Defense,5.44%,Critical Chance,3,15,Speed,3,9,Defense,1,747,Protection,1,Chewbacca
+414,6.0,3.0,5.0,15-C,11.75% Defense,98,Offense,3,1.79%,Tenacity,1,0.33%,Offense,1,281,Health,1,Visas Marr
+415,6.0,3.0,5.0,15-D,11.75% Defense,8,Speed,2,35,Offense,1,400,Health,1,0.42%,Offense,1,Lando Calrissian
+416,6.0,3.0,5.0,15-B,11.75% Defense,287,Health,1,9,Speed,2,5.42%,Critical Chance,3,0.69%,Health,1,Darth Traya
+417,6.0,3.0,5.0,15-C,11.75% Defense,10,Speed,2,3.53%,Protection,2,363,Health,1,415,Protection,1,Obi-Wan Kenobi (Old Ben)
+418,6.0,3.0,5.0,15-A,11.75% Defense,0.88%,Offense,2,16,Speed,4,34,Offense,1,377,Health,1,Admiral Ackbar
+419,6.0,3.0,5.0,15-D,11.75% Defense,76,Offense,2,0.72%,Health,1,2.07%,Critical Chance,1,0.37%,Offense,1,Chopper
+420,6.0,3.0,5.0,15-D,11.75% Defense,3.32%,Critical Chance,2,1.73%,Potency,1,45,Offense,1,9,Defense,1,Resistance Pilot
+421,6.0,3.0,5.0,15-A,11.75% Defense,1284,Protection,2,3%,Health,3,8,Speed,2,1.26%,Potency,1,Commander Luke Skywalker
+422,7.0,3.0,5.0,12-E,9.5% Defense,1.02%,Health,1,757,Protection,1,0.47%,Offense,1,33,Offense,1,Teebo
+423,7.0,3.0,5.0,15-B,11.75% Defense,1.2%,Potency,1,6,Speed,2,1.28%,Offense,3,1.06%,Health,1,Princess Leia
+424,7.0,3.0,5.0,15-A,11.75% Defense,1567,Protection,2,4.73%,Tenacity,3,8,Speed,2,0.5%,Offense,1,Poggle the Lesser
+425,7.0,3.0,5.0,15-A,11.75% Defense,8,Defense,1,5,Speed,1,417,Health,1,9.21%,Critical Chance,5,Nightsister Acolyte
+426,7.0,3.0,5.0,15-A,11.75% Defense,2.15%,Protection,1,14,Speed,3,5.57%,Critical Chance,3,1.4%,Tenacity,1,B2 Super Battle Droid
+427,7.0,3.0,5.0,15-C,11.75% Defense,4,Speed,1,1.04%,Offense,3,1.7%,Potency,1,0.88%,Health,1,T3-M4
+428,8.0,3.0,5.0,15-A,11.75% Defense,19,Speed,4,743,Health,2,2.04%,Tenacity,1,2.24%,Protection,1,Mission Vao
+429,8.0,3.0,5.0,15-A,11.75% Defense,1509,Protection,3,1.71%,Tenacity,1,225,Health,1,15,Speed,3,Hermit Yoda
+430,8.0,3.0,5.0,15-C,11.75% Defense,7,Defense,1,110,Offense,3,1.79%,Tenacity,1,265,Health,1,Pao
+431,8.0,3.0,5.0,15-A,11.75% Defense,6,Defense,1,3.91%,Potency,2,2.91%,Critical Chance,2,101,Offense,3,Enfys Nest
+432,1.0,4.0,5.0,15-C,36% Critical Damage,2.05%,Health,2,3,Speed,1,1.3%,Protection,1,12,Defense,2,Dengar
+433,1.0,4.0,5.0,15-D,36% Critical Damage,1.5%,Defense,1,4,Speed,1,2.61%,Tenacity,2,1.83%,Critical Chance,1,Chief Chirpa
+434,1.0,4.0,5.0,15-E,12% Critical Chance,734,Protection,1,0.38%,Offense,1,266,Health,1,24,Offense,1,Logray
+435,1.0,4.0,5.0,15-C,12% Critical Chance,4,Speed,1,6,Defense,1,65,Offense,2,2.26%,Defense,2,First Order Executioner
+436,1.0,4.0,5.0,15-C,11.75% Defense,778,Protection,1,14,Speed,3,2.17%,Tenacity,1,1%,Health,1,Jolee Bindo
+437,1.0,4.0,5.0,15-C,12% Critical Chance,1.81%,Tenacity,1,9,Speed,3,372,Health,1,39,Offense,1,Ahsoka Tano
+438,1.0,4.0,5.0,15-B,5.88% Offense,5.54%,Potency,3,1.31%,Defense,1,9,Speed,2,530,Protection,1,Range Trooper
+439,1.0,4.0,5.0,15-C,5.88% Health,0.91%,Offense,2,2.33%,Defense,2,523,Protection,1,1.75%,Protection,1,Kylo Ren (Unmasked)
+440,1.0,4.0,5.0,15-B,12% Critical Chance,223,Health,1,3,Speed,1,3.51%,Protection,2,2.67%,Health,3,Emperor Palpatine
+441,1.0,4.0,5.0,15-C,23.5% Protection,3,Speed,1,751,Health,3,1.88%,Potency,1,9,Defense,1,Shaak Ti
+442,1.0,4.0,5.0,15-E,11.75% Defense,5,Speed,1,37,Offense,1,0.96%,Health,1,1.98%,Critical Chance,1,Sabine Wren
+443,1.0,4.0,5.0,15-C,12% Critical Chance,631,Health,2,7,Speed,2,1.4%,Tenacity,1,1.05%,Health,1,Geonosian Soldier
+444,1.0,4.0,4.0,15-D,4% Offense,613,Health,2,1.7%,Potency,1,0.58%,Health,1,427,Protection,1,Darth Maul
+445,1.0,4.0,5.0,15-E,5.88% Offense,0.99%,Health,1,6,Defense,1,0.91%,Defense,1,1.77%,Critical Chance,1,IG-100 MagnaGuard
+446,1.0,4.0,5.0,15-B,11.75% Defense,419,Protection,1,0.31%,Offense,1,521,Health,2,14,Speed,3,Nightsister Zombie
+447,1.0,4.0,5.0,15-B,5.88% Offense,8,Speed,2,15,Defense,2,2.23%,Potency,1,2.98%,Protection,2,Jango Fett
+448,1.0,4.0,6.0,15-E,8.5% Offense,1.84%,Health,1,40,Offense,1,25,Speed,5,1.88%,Critical Chance,1,Bastila Shan (Fallen)
+449,1.0,4.0,5.0,15-C,23.5% Protection,13,Speed,3,1%,Health,1,6,Defense,1,1.04%,Defense,1,Imperial Probe Droid
+450,1.0,4.0,5.0,15-C,5.88% Offense,8,Speed,2,671,Protection,1,1.61%,Potency,1,61,Offense,2,Carth Onasi
+451,1.0,4.0,5.0,15-A,36% Critical Damage,142,Offense,4,1.85%,Potency,1,0.31%,Offense,1,3.69%,Protection,2,Asajj Ventress
+452,1.0,4.0,5.0,15-C,12% Critical Chance,14,Speed,3,564,Protection,1,0.89%,Health,1,1.66%,Defense,1,Jedi Knight Revan
+453,1.0,4.0,5.0,6-C,15.75% Critical Damage,1.36%,Defense,1,0.34%,Offense,1,6,Defense,1,1.41%,Tenacity,1,"CT-21-0408 ""Echo"""
+454,1.0,4.0,5.0,15-B,12% Critical Chance,3.54%,Potency,2,23,Defense,3,1.74%,Protection,1,1.2%,Tenacity,1,"CT-5555 ""Fives"""
+455,1.0,4.0,6.0,15-E,42% Critical Damage,6.07%,Critical Chance,3,14,Speed,3,1.53%,Offense,1,435,Health,1,General Grievous
+456,1.0,4.0,5.0,15-A,12% Critical Chance,1.82%,Tenacity,1,8,Speed,2,3.1%,Defense,2,109,Offense,3,Paploo
+457,1.0,4.0,5.0,15-B,5.88% Health,0.76%,Offense,2,1.75%,Protection,1,3.31%,Tenacity,2,1372,Protection,2,Bossk
+458,1.0,4.0,5.0,15-D,36% Critical Damage,1.09%,Offense,2,1.1%,Health,1,259,Health,1,2.09%,Potency,1,Biggs Darklighter
+459,1.0,4.0,5.0,15-A,36% Critical Damage,41,Offense,1,1.5%,Health,2,3.49%,Critical Chance,2,2160,Protection,3,Finn
+460,1.0,4.0,5.0,15-C,5.88% Offense,314,Health,1,55,Offense,2,7,Defense,1,8,Speed,2,Cassian Andor
+461,1.0,4.0,5.0,15-C,23.5% Protection,6,Speed,2,1.58%,Defense,1,5,Defense,1,3.78%,Tenacity,2,Zaalbar
+462,1.0,4.0,5.0,15-C,5.88% Offense,9,Speed,2,1.14%,Defense,1,7,Defense,1,1293,Protection,2,Padmé Amidala
+463,1.0,4.0,5.0,15-A,36% Critical Damage,2.07%,Protection,1,25,Defense,3,15,Speed,3,473,Protection,1,Jedi Knight Anakin
+464,1.0,4.0,4.0,15-C,31.5% Critical Damage,10,Speed,3,620,Protection,1,29,Offense,1,1.02%,Critical Chance,1,Nute Gunray
+465,1.0,4.0,6.0,15-E,16% Health,15,Speed,3,2.48%,Offense,2,667,Health,2,10,Defense,1,HK-47
+466,1.0,4.0,5.0,15-B,23.5% Protection,1310,Protection,2,12,Defense,2,6,Speed,2,41,Offense,1,K-2SO
+467,1.0,4.0,5.0,15-A,23.5% Protection,3.04%,Critical Chance,2,119,Offense,3,1.42%,Health,2,5,Speed,1,Kanan Jarrus
+468,1.0,4.0,5.0,12-C,29.25% Critical Damage,5,Speed,1,3.18%,Defense,2,1.48%,Potency,1,1132,Protection,2,Aurra Sing
+469,1.0,4.0,4.0,15-D,10.5% Critical Chance,0.73%,Offense,2,1.18%,Protection,1,1.11%,Defense,1,0.54%,Health,1,"CC-2224 ""Cody"""
+470,1.0,4.0,5.0,15-D,5.88% Offense,3,Speed,1,44,Offense,1,1.6%,Health,2,563,Protection,1,Pao
+471,1.0,4.0,5.0,15-A,23.5% Protection,20,Speed,4,1.62%,Health,2,763,Protection,1,1.19%,Potency,1,Darth Malak
+472,1.0,4.0,5.0,15-C,5.88% Health,3.12%,Tenacity,2,9,Speed,2,1.3%,Potency,1,9,Defense,1,General Kenobi
+473,1.0,4.0,5.0,15-C,23.5% Protection,590,Health,2,8,Speed,2,1.51%,Defense,1,1.55%,Potency,1,Shoretrooper
+474,1.0,4.0,6.0,15-E,20% Critical Chance,452,Health,1,3.21%,Health,2,11,Speed,2,119,Offense,3,IG-88
+475,1.0,4.0,5.0,15-C,23.5% Protection,13,Speed,3,1.3%,Potency,1,423,Health,1,0.91%,Defense,1,Sun Fac
+476,1.0,4.0,5.0,15-C,36% Critical Damage,3.47%,Tenacity,2,2.04%,Defense,2,468,Protection,1,4,Speed,1,Clone Sergeant - Phase I
+477,1.0,4.0,5.0,15-C,12% Critical Chance,8,Speed,2,490,Protection,1,3.37%,Potency,2,38,Offense,1,Captain Phasma
+478,2.0,4.0,5.0,15-A,36% Critical Damage,1.21%,Potency,1,57,Offense,2,973,Health,3,7,Speed,2,Sith Assassin
+479,2.0,4.0,5.0,15-A,11.75% Defense,10,Speed,2,1169,Protection,2,4.7%,Critical Chance,3,1.36%,Protection,1,Admiral Ackbar
+480,2.0,4.0,5.0,15-A,5.88% Health,3.83%,Defense,3,1360,Protection,2,701,Health,2,3,Speed,1,Barriss Offee
+481,2.0,4.0,5.0,15-D,5.88% Offense,81,Offense,2,1.74%,Protection,1,538,Protection,1,1.33%,Defense,1,Visas Marr
+482,2.0,4.0,5.0,15-C,5.88% Offense,1090,Protection,2,9,Speed,2,7,Defense,1,2.05%,Tenacity,1,Death Trooper
+483,2.0,4.0,5.0,15-A,36% Critical Damage,78,Offense,2,1.08%,Offense,2,9,Speed,2,633,Health,2,Darth Sion
+484,2.0,4.0,5.0,15-A,5.88% Offense,117,Offense,3,1.98%,Critical Chance,1,16,Defense,2,2.75%,Defense,2,Talia
+485,2.0,4.0,5.0,15-C,5.88% Offense,481,Health,2,11,Speed,2,2.08%,Potency,1,6,Defense,1,Droideka
+486,2.0,4.0,5.0,15-D,5.88% Offense,0.98%,Health,1,614,Protection,1,7,Speed,2,5,Defense,1,Qi'ra
+487,3.0,4.0,6.0,15-E,42% Critical Damage,21,Speed,4,1.86%,Health,1,2.1%,Protection,1,4.58%,Critical Chance,2,Grand Master Yoda
+488,4.0,4.0,5.0,15-D,11.75% Defense,8,Speed,2,1.2%,Potency,1,40,Offense,1,221,Health,1,Hermit Yoda
+489,4.0,4.0,5.0,15-C,36% Critical Damage,24,Defense,3,25,Offense,1,2.25%,Tenacity,1,0.43%,Offense,1,First Order TIE Pilot
+490,4.0,4.0,6.0,15-E,8.5% Offense,4.28%,Protection,2,3.66%,Critical Chance,2,14,Speed,3,2.06%,Tenacity,1,Grand Admiral Thrawn
+491,4.0,4.0,5.0,15-C,5.88% Offense,31,Offense,1,2.58%,Defense,2,1.67%,Protection,1,9,Speed,2,Grand Moff Tarkin
+492,4.0,4.0,5.0,15-B,5.88% Offense,3.71%,Protection,2,4,Speed,1,1753,Protection,3,33,Offense,1,Chopper
+493,4.0,4.0,4.0,15-A,10.5% Critical Chance,13,Speed,3,0.43%,Offense,1,1.26%,Potency,1,2.52%,Health,3,Darth Vader
+494,4.0,4.0,5.0,15-B,36% Critical Damage,3.71%,Potency,2,3.23%,Defense,2,9,Speed,2,1.88%,Protection,1,Aayla Secura
+495,4.0,4.0,5.0,15-D,23.5% Protection,23,Offense,1,8,Speed,2,1.43%,Tenacity,1,2.18%,Potency,1,L3-37
+496,4.0,4.0,5.0,15-A,23.5% Protection,0.96%,Defense,1,0.82%,Offense,2,75,Offense,2,12,Speed,3,Scarif Rebel Pathfinder
+497,4.0,4.0,5.0,15-B,36% Critical Damage,2.68%,Critical Chance,2,3.75%,Potency,2,9,Speed,2,0.94%,Health,1,Vandor Chewbacca
+498,4.0,4.0,5.0,15-D,36% Critical Damage,3.45%,Potency,2,4,Speed,1,519,Protection,1,0.59%,Health,1,Greedo
+499,4.0,4.0,5.0,15-C,36% Critical Damage,511,Protection,1,81,Offense,3,1.96%,Critical Chance,1,1.7%,Defense,1,Boba Fett
+500,4.0,4.0,5.0,15-D,12% Critical Chance,6,Speed,2,214,Health,1,1.76%,Potency,1,624,Protection,1,First Order Officer
+501,4.0,4.0,5.0,15-A,36% Critical Damage,11,Speed,2,715,Protection,1,64,Offense,2,4.93%,Potency,3,Darth Traya
+502,4.0,4.0,5.0,15-D,12% Critical Chance,9,Speed,2,760,Protection,1,1.7%,Defense,1,7,Defense,1,Obi-Wan Kenobi (Old Ben)
+503,4.0,4.0,6.0,15-E,8.5% Offense,14,Speed,3,1.98%,Tenacity,1,864,Health,2,5.66%,Defense,2,Mother Talzin
+504,4.0,4.0,5.0,15-A,5.88% Health,5,Defense,1,0.36%,Offense,1,1027,Protection,2,21,Speed,4,C-3PO
+505,4.0,4.0,5.0,15-D,36% Critical Damage,5,Defense,1,68,Offense,2,2.06%,Protection,1,4,Speed,1,Bistan
+506,4.0,4.0,5.0,15-D,12% Critical Chance,8,Defense,1,9,Speed,2,1.14%,Protection,1,1.41%,Tenacity,1,Geonosian Brood Alpha
+507,4.0,4.0,5.0,12-E,9.75% Critical Chance,272,Health,1,1.25%,Tenacity,1,31,Offense,1,0.87%,Health,1,Zam Wesell
+508,4.0,4.0,5.0,15-C,11.75% Defense,0.39%,Offense,1,3.35%,Protection,2,2.09%,Potency,1,11,Speed,2,Bastila Shan
+509,4.0,4.0,5.0,15-A,12% Critical Chance,80,Offense,2,12,Speed,3,551,Protection,1,0.9%,Offense,2,Colonel Starck
+510,4.0,4.0,5.0,15-B,36% Critical Damage,3.5%,Defense,3,1.53%,Critical Chance,1,10,Speed,2,347,Health,1,Ezra Bridger
+511,4.0,4.0,5.0,15-B,12% Critical Chance,9,Speed,2,3.76%,Potency,2,3.12%,Tenacity,2,452,Protection,1,B1 Battle Droid
+512,4.0,4.0,5.0,15-C,36% Critical Damage,3.85%,Critical Chance,2,8,Speed,2,2.18%,Protection,1,1.1%,Defense,1,Count Dooku
+513,5.0,4.0,5.0,15-A,36% Critical Damage,1.54%,Health,2,9,Speed,2,38,Offense,1,1.22%,Offense,3,Wampa
+514,5.0,4.0,5.0,15-A,11.75% Defense,13,Speed,3,26,Offense,1,3.54%,Protection,2,2.89%,Tenacity,2,"CT-7567 ""Rex"""
+515,5.0,4.0,5.0,15-D,23.5% Protection,0.97%,Offense,2,5,Speed,1,1.99%,Tenacity,1,6,Defense,1,Ewok Elder
+516,5.0,4.0,5.0,15-D,36% Critical Damage,1.51%,Health,2,1.6%,Critical Chance,1,0.38%,Offense,1,273,Health,1,Lando Calrissian
+517,5.0,4.0,5.0,15-D,12% Critical Chance,0.89%,Offense,2,1.1%,Health,1,39,Offense,1,5,Speed,1,Nightsister Acolyte
+518,5.0,4.0,5.0,15-C,36% Critical Damage,4,Speed,1,2.69%,Potency,2,2.2%,Protection,1,2.86%,Critical Chance,2,"Garazeb ""Zeb"" Orrelios"
+519,5.0,4.0,5.0,15-D,36% Critical Damage,1.72%,Health,2,1.51%,Defense,1,33,Offense,1,1.37%,Protection,1,Wedge Antilles
+520,5.0,4.0,5.0,15-A,5.88% Offense,4.77%,Tenacity,3,4,Speed,1,5.14%,Critical Chance,3,32,Offense,1,Sith Marauder
+521,5.0,4.0,5.0,15-C,12% Critical Chance,24,Offense,1,2105,Protection,3,4,Speed,1,258,Health,1,Nightsister Initiate
+522,5.0,4.0,5.0,15-A,5.88% Offense,138,Offense,4,1.2%,Tenacity,1,7,Speed,2,483,Protection,1,Han Solo
+523,5.0,4.0,5.0,15-B,36% Critical Damage,4.21%,Potency,3,8,Speed,2,1.73%,Protection,1,622,Protection,1,General Veers
+524,5.0,4.0,5.0,15-C,12% Critical Chance,493,Protection,1,1.27%,Offense,3,25,Offense,1,5,Speed,1,Snowtrooper
+525,6.0,4.0,5.0,15-A,36% Critical Damage,12,Speed,3,2.2%,Protection,1,14,Defense,2,1233,Protection,2,Chewbacca
+526,6.0,4.0,5.0,15-E,12% Critical Chance,1.72%,Tenacity,1,7,Defense,1,229,Health,1,757,Protection,1,Mission Vao
+527,6.0,4.0,6.0,15-E,42% Critical Damage,23,Speed,4,554,Protection,1,1.72%,Tenacity,1,7.32%,Defense,2,Darth Revan
+528,6.0,4.0,5.0,15-A,36% Critical Damage,1.52%,Offense,3,4,Speed,1,2.11%,Protection,1,1962,Protection,3,Plo Koon
+529,6.0,4.0,6.0,15-E,42% Critical Damage,3.27%,Defense,1,20,Speed,4,2.22%,Health,2,341,Health,1,Commander Luke Skywalker
+530,6.0,4.0,5.0,15-D,23.5% Protection,3.19%,Potency,2,34,Offense,1,367,Health,1,638,Protection,1,Baze Malbus
+531,6.0,4.0,5.0,15-B,12% Critical Chance,0.93%,Offense,2,2.34%,Defense,2,3.07%,Potency,2,1.03%,Health,1,Resistance Pilot
+532,6.0,4.0,5.0,15-E,23.5% Protection,2.02%,Critical Chance,1,0.52%,Offense,1,1.21%,Defense,1,4,Speed,1,Kylo Ren
+533,6.0,4.0,5.0,15-E,36% Critical Damage,2.03%,Critical Chance,1,5,Defense,1,1.11%,Health,1,516,Protection,1,Rey (Scavenger)
+534,6.0,4.0,5.0,15-D,23.5% Protection,0.8%,Health,1,1.19%,Tenacity,1,46,Offense,1,7,Speed,2,Darth Nihilus
+535,6.0,4.0,5.0,15-C,36% Critical Damage,3.62%,Critical Chance,2,7,Speed,2,2.18%,Protection,1,1.33%,Potency,1,Rey (Jedi Training)
+536,6.0,4.0,5.0,9-B,7.25% Defense,233,Health,1,9,Speed,2,5.55%,Critical Chance,3,Savage Opress,,,
+537,6.0,4.0,5.0,15-B,5.88% Offense,2.78%,Tenacity,2,59,Offense,2,15,Defense,2,1.06%,Health,1,Cad Bane
+538,6.0,4.0,5.0,15-D,36% Critical Damage,6,Defense,1,656,Health,2,4,Speed,1,2.08%,Protection,1,Amilyn Holdo
+539,6.0,4.0,5.0,15-C,5.88% Health,5,Speed,1,1.3%,Offense,3,415,Health,1,1.3%,Protection,1,Old Daka
+540,6.0,4.0,5.0,15-D,36% Critical Damage,2.1%,Tenacity,1,0.97%,Offense,2,36,Offense,1,3,Speed,1,Resistance Trooper
+541,6.0,4.0,5.0,15-D,12% Critical Chance,480,Protection,1,3,Speed,1,1.68%,Potency,1,17,Defense,2,Chirrut Îmwe
+542,6.0,4.0,5.0,12-B,4.75% Health,0.62%,Offense,2,5.28%,Potency,3,3,Speed,1,1.3%,Tenacity,1,Stormtrooper Han
+543,6.0,4.0,5.0,15-A,12% Critical Chance,2.45%,Health,3,16,Defense,2,8,Speed,2,31,Offense,1,Nightsister Spirit
+544,7.0,4.0,5.0,15-A,36% Critical Damage,3.63%,Protection,2,1.6%,Health,2,14,Defense,2,6,Speed,2,Princess Leia
+545,7.0,4.0,5.0,15-B,5.88% Offense,3,Speed,1,78,Offense,3,2.11%,Critical Chance,1,523,Health,2,T3-M4
+546,7.0,4.0,5.0,15-B,5.88% Offense,1.31%,Defense,1,5,Speed,1,12,Defense,2,5.01%,Tenacity,3,Wicket
+547,7.0,4.0,5.0,15-B,23.5% Protection,1.51%,Tenacity,1,25,Offense,1,1.08%,Defense,1,27,Defense,4,Jyn Erso
+548,7.0,4.0,6.0,15-E,42% Critical Damage,17,Speed,4,509,Health,1,1.67%,Tenacity,1,85,Offense,2,BB-8
+549,7.0,4.0,5.0,15-C,36% Critical Damage,8,Speed,2,1.64%,Health,2,38,Offense,1,338,Health,1,Poe Dameron
+550,7.0,4.0,5.0,15-B,12% Critical Chance,4.29%,Potency,2,1.02%,Offense,2,610,Health,2,694,Protection,1,B2 Super Battle Droid
+551,8.0,4.0,5.0,15-A,11.75% Defense,3.49%,Protection,2,1.07%,Offense,2,6,Speed,2,541,Health,2,R2-D2
+552,8.0,4.0,5.0,15-D,36% Critical Damage,1263,Protection,2,27,Offense,1,1.6%,Protection,1,1.46%,Critical Chance,1,TIE Fighter Pilot
+553,8.0,4.0,5.0,15-C,36% Critical Damage,3.5%,Potency,2,8,Speed,2,1.97%,Protection,1,5,Defense,1,Canderous Ordo
+554,8.0,4.0,5.0,15-B,11.75% Defense,4,Speed,1,1.78%,Critical Chance,1,132,Offense,4,1.41%,Protection,1,Hera Syndulla
+555,8.0,4.0,5.0,15-A,5.88% Health,3,Speed,1,5.06%,Critical Chance,3,1386,Protection,2,13,Defense,2,Enfys Nest
+556,8.0,4.0,5.0,15-B,36% Critical Damage,16,Speed,3,1.54%,Critical Chance,1,1.07%,Health,1,2.88%,Protection,2,Rebel Officer Leia Organa
+557,8.0,4.0,5.0,15-A,11.75% Defense,0.89%,Offense,2,1.73%,Potency,1,16,Speed,3,3.72%,Critical Chance,2,Sith Trooper
+558,8.0,4.0,5.0,15-A,11.75% Defense,2.02%,Tenacity,1,110,Offense,3,10,Speed,2,0.61%,Offense,2,Poggle the Lesser
+559,8.0,4.0,5.0,15-B,36% Critical Damage,5.7%,Protection,3,419,Health,1,11,Speed,2,1.66%,Potency,1,Geonosian Spy
+560,1.0,5.0,5.0,12-C,19% Protection,1.55%,Health,2,1.36%,Critical Chance,1,8,Speed,2,45,Offense,1,"CT-21-0408 ""Echo"""
+561,1.0,5.0,5.0,15-C,5.88% Health,4,Speed,1,1.3%,Offense,3,1.42%,Defense,1,7,Defense,1,Sith Assassin
+562,1.0,5.0,5.0,15-D,5.88% Health,1242,Protection,2,1.98%,Critical Chance,1,5,Speed,1,1.91%,Tenacity,1,TIE Fighter Pilot
+563,1.0,5.0,5.0,15-C,23.5% Protection,5,Speed,1,5.85%,Potency,3,455,Protection,1,374,Health,1,Princess Leia
+564,1.0,5.0,5.0,15-B,23.5% Protection,13,Speed,3,10,Defense,2,808,Protection,1,261,Health,1,Darth Sion
+565,1.0,5.0,6.0,15-E,16% Health,20,Speed,4,1.04%,Offense,1,34,Offense,1,3.91%,Protection,2,General Kenobi
+566,1.0,5.0,5.0,15-C,23.5% Protection,1256,Protection,2,7,Speed,2,1.52%,Critical Chance,1,1.22%,Potency,1,Logray
+567,1.0,5.0,5.0,15-A,23.5% Protection,20,Speed,4,1.48%,Defense,1,3.26%,Critical Chance,2,26,Offense,1,T3-M4
+568,1.0,5.0,5.0,15-C,5.88% Health,3.24%,Critical Chance,2,5,Speed,1,39,Offense,1,1.97%,Defense,2,Droideka
+569,1.0,5.0,5.0,15-A,5.88% Health,1315,Protection,2,9,Speed,2,3.27%,Protection,2,72,Offense,2,Vandor Chewbacca
+570,1.0,5.0,5.0,15-C,23.5% Protection,10,Speed,2,0.83%,Health,1,707,Health,2,0.51%,Offense,1,Plo Koon
+571,1.0,5.0,5.0,12-A,19% Protection,612,Protection,1,5,Speed,1,558,Health,2,7.09%,Critical Chance,4,Aurra Sing
+572,1.0,5.0,5.0,15-A,23.5% Protection,14,Speed,3,2.41%,Tenacity,2,4.24%,Potency,2,699,Protection,1,Hermit Yoda
+573,1.0,5.0,5.0,15-C,5.88% Health,9,Speed,2,571,Health,2,2.04%,Protection,1,7,Defense,1,Old Daka
+574,1.0,5.0,5.0,15-C,23.5% Protection,12,Defense,2,3.6%,Tenacity,2,1.27%,Defense,1,0.85%,Health,1,Baze Malbus
+575,1.0,5.0,5.0,15-D,5.88% Health,26,Offense,1,0.99%,Defense,1,782,Health,2,4,Speed,1,Stormtrooper Han
+576,1.0,5.0,5.0,15-C,23.5% Protection,77,Offense,2,11,Speed,2,2.03%,Tenacity,1,253,Health,1,Bossk
+577,1.0,5.0,5.0,12-C,4.75% Health,81,Offense,2,5,Speed,1,15,Defense,2,2.17%,Potency,1,Mace Windu
+578,1.0,5.0,5.0,15-A,23.5% Protection,2249,Protection,4,8,Defense,1,11,Speed,2,1.42%,Defense,1,Carth Onasi
+579,1.0,5.0,5.0,15-A,23.5% Protection,0.66%,Health,1,19,Speed,4,1.67%,Defense,1,0.95%,Offense,2,HK-47
+580,1.0,5.0,6.0,15-E,16% Health,3.45%,Defense,1,2.99%,Offense,2,21,Speed,4,8,Defense,1,Ahsoka Tano
+581,1.0,5.0,5.0,15-A,23.5% Protection,1.64%,Potency,1,19,Speed,4,2.95%,Defense,2,0.4%,Offense,1,Jedi Knight Revan
+582,1.0,5.0,5.0,15-C,23.5% Protection,508,Health,2,7,Speed,2,458,Protection,1,1.3%,Tenacity,1,Cad Bane
+583,1.0,5.0,5.0,15-C,23.5% Protection,8,Speed,2,68,Offense,2,530,Protection,1,0.83%,Health,1,Biggs Darklighter
+584,1.0,5.0,5.0,15-C,5.88% Health,68,Offense,2,3.74%,Potency,2,3,Speed,1,1.16%,Defense,1,Kanan Jarrus
+585,1.0,5.0,5.0,15-A,23.5% Protection,0.77%,Health,1,11,Speed,3,1.81%,Critical Chance,1,1884,Protection,3,Shoretrooper
+586,1.0,5.0,6.0,15-E,16% Health,17,Speed,3,6.16%,Critical Chance,3,9,Defense,1,1.71%,Potency,1,General Grievous
+587,1.0,5.0,5.0,15-A,5.88% Health,7,Speed,2,1.31%,Potency,1,2122,Protection,4,1.13%,Protection,1,Shaak Ti
+588,1.0,5.0,5.0,15-C,5.88% Health,9,Speed,2,2.8%,Protection,2,0.42%,Offense,1,1.65%,Potency,1,Nightsister Zombie
+589,1.0,5.0,5.0,15-C,23.5% Protection,88,Offense,2,2.09%,Critical Chance,1,1.1%,Defense,1,10,Speed,2,Jolee Bindo
+590,1.0,5.0,5.0,15-E,23.5% Protection,481,Protection,1,1.19%,Tenacity,1,1.88%,Critical Chance,1,1.08%,Health,1,Paploo
+591,1.0,5.0,5.0,15-C,5.88% Health,15,Defense,2,8,Speed,2,661,Protection,1,2.23%,Critical Chance,1,Kylo Ren (Unmasked)
+592,1.0,5.0,5.0,15-B,5.88% Health,65,Offense,2,1.29%,Potency,1,0.86%,Offense,2,10,Speed,2,Jedi Knight Anakin
+593,1.0,5.0,5.0,15-C,23.5% Protection,1.64%,Critical Chance,1,0.66%,Health,1,13,Speed,3,38,Offense,1,"CT-7567 ""Rex"""
+594,1.0,5.0,5.0,15-B,5.88% Health,12,Speed,3,1.29%,Defense,1,36,Offense,1,2.89%,Tenacity,2,Padmé Amidala
+595,1.0,5.0,5.0,15-D,23.5% Protection,3.32%,Tenacity,2,7,Defense,1,31,Offense,1,4,Speed,1,Royal Guard
+596,1.0,5.0,5.0,15-C,23.5% Protection,9,Speed,2,55,Offense,2,0.63%,Health,1,1.5%,Potency,1,Jango Fett
+597,1.0,5.0,5.0,15-C,23.5% Protection,5,Defense,1,9,Speed,2,70,Offense,2,0.42%,Offense,1,Zaalbar
+598,1.0,5.0,6.0,15-E,16% Health,22,Speed,4,1.69%,Potency,1,2%,Offense,2,273,Health,1,Darth Malak
+599,1.0,5.0,5.0,15-C,23.5% Protection,9,Speed,2,12,Defense,2,630,Protection,1,27,Offense,1,Obi-Wan Kenobi (Old Ben)
+600,1.0,5.0,5.0,15-C,5.88% Health,2.19%,Potency,1,10,Speed,2,82,Offense,2,6,Defense,1,Grand Moff Tarkin
+601,1.0,5.0,5.0,15-C,23.5% Protection,9,Speed,2,6,Defense,1,1.81%,Critical Chance,1,989,Protection,2,Imperial Probe Droid
+602,1.0,5.0,5.0,15-D,23.5% Protection,3.5%,Potency,2,1.16%,Defense,1,419,Health,1,4,Speed,1,"Garazeb ""Zeb"" Orrelios"
+603,2.0,5.0,5.0,15-B,23.5% Protection,216,Health,1,13,Speed,3,41,Offense,1,3.65%,Potency,2,Finn
+604,2.0,5.0,5.0,15-A,5.88% Health,17,Speed,4,2.92%,Potency,2,37,Offense,1,0.36%,Offense,1,Mission Vao
+605,2.0,5.0,5.0,15-A,23.5% Protection,1.47%,Potency,1,570,Health,2,8,Speed,2,5.31%,Critical Chance,3,Embo
+606,2.0,5.0,5.0,15-B,5.88% Health,14,Defense,2,2.69%,Tenacity,2,7,Speed,2,355,Health,1,Ewok Elder
+607,2.0,5.0,5.0,15-A,23.5% Protection,3.44%,Defense,3,3.69%,Tenacity,2,10,Speed,2,2.22%,Critical Chance,1,Geonosian Soldier
+608,2.0,5.0,5.0,15-A,23.5% Protection,0.68%,Health,1,3.61%,Tenacity,2,13,Speed,3,12,Defense,2,Canderous Ordo
+609,2.0,5.0,5.0,15-C,5.88% Health,10,Speed,2,1129,Protection,2,5,Defense,1,35,Offense,1,Greedo
+610,2.0,5.0,5.0,15-C,23.5% Protection,2.67%,Critical Chance,2,603,Protection,1,9,Speed,2,28,Offense,1,Amilyn Holdo
+611,2.0,5.0,5.0,12-A,19% Protection,2.92%,Critical Chance,2,3.85%,Tenacity,2,5,Speed,1,3.95%,Defense,3,Resistance Pilot
+612,2.0,5.0,5.0,15-A,5.88% Health,157,Offense,4,2.52%,Defense,2,715,Protection,1,4,Speed,1,Talia
+613,2.0,5.0,5.0,15-C,23.5% Protection,1148,Protection,2,6,Defense,1,9,Speed,2,1.55%,Critical Chance,1,Cassian Andor
+614,2.0,5.0,5.0,15-C,5.88% Health,9,Speed,2,317,Health,1,1.38%,Tenacity,1,56,Offense,2,Han Solo
+615,2.0,5.0,5.0,15-C,5.88% Health,11,Speed,2,0.31%,Offense,1,8,Defense,1,1417,Protection,2,"CT-5555 ""Fives"""
+616,2.0,5.0,5.0,15-A,23.5% Protection,8,Speed,2,4.47%,Critical Chance,3,13,Defense,2,1.89%,Tenacity,1,Range Trooper
+617,2.0,5.0,5.0,15-A,23.5% Protection,2.67%,Defense,2,3.33%,Critical Chance,2,13,Speed,3,1.4%,Tenacity,1,Bastila Shan
+618,2.0,5.0,5.0,15-A,5.88% Health,4.74%,Defense,4,46,Offense,1,5,Speed,1,1147,Protection,2,K-2SO
+619,3.0,5.0,5.0,15-A,23.5% Protection,2.21%,Defense,2,17,Speed,3,0.43%,Offense,1,1149,Protection,2,Sith Trooper
+620,4.0,5.0,5.0,15-D,5.88% Health,9,Defense,1,1.57%,Defense,1,5,Speed,1,460,Health,2,Admiral Ackbar
+621,4.0,5.0,5.0,15-A,23.5% Protection,16,Speed,4,418,Health,1,0.54%,Offense,1,3.02%,Tenacity,2,C-3PO
+622,4.0,5.0,5.0,15-C,5.88% Health,1.84%,Protection,1,9,Speed,2,17,Defense,2,28,Offense,1,Count Dooku
+623,4.0,5.0,5.0,15-A,5.88% Health,1.94%,Potency,1,8,Speed,2,1.16%,Offense,3,67,Offense,2,Ewok Scout
+624,4.0,5.0,5.0,15-C,23.5% Protection,0.9%,Offense,2,8,Speed,2,1.56%,Critical Chance,1,0.95%,Defense,1,Sabine Wren
+625,4.0,5.0,5.0,15-C,5.88% Health,709,Health,2,2.43%,Defense,2,2.16%,Tenacity,1,43,Offense,1,Clone Sergeant - Phase I
+626,4.0,5.0,5.0,15-D,5.88% Health,9,Speed,2,1.17%,Tenacity,1,44,Offense,1,8,Defense,1,First Order Executioner
+627,4.0,5.0,5.0,15-A,23.5% Protection,1.47%,Tenacity,1,4.07%,Critical Chance,3,99,Offense,3,4,Speed,1,Darth Maul
+628,4.0,5.0,6.0,15-E,16% Health,13,Speed,3,5.49%,Defense,2,2.93%,Protection,1,3.55%,Tenacity,2,Chewbacca
+629,4.0,5.0,5.0,15-B,23.5% Protection,0.52%,Offense,1,5,Speed,1,2722,Protection,4,6,Defense,1,First Order Officer
+630,4.0,5.0,6.0,15-E,16% Health,3.3%,Defense,1,20,Speed,4,2.9%,Protection,1,3.14%,Offense,2,Grand Master Yoda
+631,4.0,5.0,5.0,15-B,23.5% Protection,1.68%,Health,2,3.81%,Potency,2,345,Health,1,11,Speed,2,Emperor Palpatine
+632,4.0,5.0,5.0,15-B,23.5% Protection,613,Protection,1,1.69%,Health,2,10,Speed,2,72,Offense,2,Sith Marauder
+633,4.0,5.0,6.0,15-E,24% Protection,19,Speed,4,1.11%,Offense,1,1.82%,Health,1,79,Offense,2,BB-8
+634,4.0,5.0,5.0,15-A,23.5% Protection,1.08%,Health,1,8,Speed,2,3.92%,Potency,2,3.88%,Defense,3,Dengar
+635,4.0,5.0,5.0,15-D,5.88% Health,8,Speed,2,431,Protection,1,2.23%,Critical Chance,1,372,Health,1,Poe Dameron
+636,4.0,5.0,5.0,15-C,23.5% Protection,812,Protection,1,224,Health,1,59,Offense,2,9,Speed,2,L3-37
+637,4.0,5.0,5.0,15-A,23.5% Protection,104,Offense,3,14,Speed,3,1.56%,Potency,1,563,Protection,1,Boba Fett
+638,4.0,5.0,5.0,15-D,23.5% Protection,7,Speed,2,1.13%,Tenacity,1,0.93%,Health,1,1.18%,Critical Chance,1,General Veers
+639,4.0,5.0,5.0,15-C,23.5% Protection,1.01%,Defense,1,54,Offense,2,10,Speed,2,1.5%,Critical Chance,1,Geonosian Spy
+640,4.0,5.0,6.0,15-E,16% Health,38,Offense,1,23,Defense,2,21,Speed,4,2.98%,Tenacity,1,Darth Revan
+641,4.0,5.0,5.0,15-B,23.5% Protection,5.2%,Potency,3,10,Speed,2,0.41%,Offense,1,1.65%,Defense,1,Qi'ra
+642,4.0,5.0,5.0,15-C,23.5% Protection,9,Speed,2,595,Health,2,1.91%,Critical Chance,1,1.07%,Health,1,Mother Talzin
+643,4.0,5.0,5.0,15-C,5.88% Health,10,Speed,2,2.11%,Tenacity,1,2.15%,Protection,1,1354,Protection,2,Darth Vader
+644,4.0,5.0,5.0,15-A,5.88% Health,17,Speed,3,1.53%,Tenacity,1,3.64%,Protection,2,60,Offense,2,B1 Battle Droid
+645,4.0,5.0,6.0,15-E,16% Health,13,Defense,1,25,Speed,5,2.44%,Protection,1,862,Protection,1,Bastila Shan (Fallen)
+646,4.0,5.0,6.0,15-E,16% Health,14,Speed,3,1425,Protection,2,3.93%,Tenacity,2,1.48%,Critical Chance,1,Darth Nihilus
+647,4.0,5.0,5.0,15-A,23.5% Protection,2.08%,Potency,1,5,Defense,1,1474,Health,4,1.78%,Health,2,Zam Wesell
+648,4.0,5.0,5.0,15-B,5.88% Health,353,Health,1,9,Speed,2,1.47%,Offense,3,40,Offense,1,Hera Syndulla
+649,4.0,5.0,5.0,15-B,5.88% Health,13,Speed,3,307,Health,1,14,Defense,2,32,Offense,1,Ezra Bridger
+650,4.0,5.0,5.0,15-A,23.5% Protection,756,Protection,1,20,Defense,3,1.99%,Health,2,9,Speed,2,Nightsister Spirit
+651,4.0,5.0,5.0,15-A,5.88% Health,17,Speed,4,2.19%,Potency,1,1.95%,Defense,2,0.45%,Offense,1,Colonel Starck
+652,4.0,5.0,5.0,15-C,5.88% Health,10,Speed,2,0.95%,Offense,2,1.43%,Defense,1,1.43%,Tenacity,1,Aayla Secura
+653,4.0,5.0,5.0,15-C,5.88% Health,9,Speed,2,53,Offense,2,1.68%,Tenacity,1,6,Defense,1,Geonosian Brood Alpha
+654,4.0,5.0,5.0,15-C,23.5% Protection,8,Speed,2,1.47%,Potency,1,3.82%,Critical Chance,2,9,Defense,1,Scarif Rebel Pathfinder
+655,4.0,5.0,6.0,15-E,24% Protection,20,Speed,4,2.61%,Tenacity,1,995,Protection,2,1.54%,Offense,1,Grand Admiral Thrawn
+656,5.0,5.0,5.0,15-D,23.5% Protection,9,Speed,2,1.84%,Potency,1,9,Defense,1,350,Health,1,IG-88
+657,5.0,5.0,5.0,15-A,5.88% Health,9,Speed,2,31,Offense,1,1196,Protection,2,1.5%,Offense,3,Rey (Jedi Training)
+658,5.0,5.0,5.0,15-A,5.88% Health,3.26%,Potency,2,8,Defense,1,10,Speed,2,1944,Protection,3,Sun Fac
+659,6.0,5.0,5.0,15-C,23.5% Protection,0.95%,Health,1,2134,Protection,3,0.56%,Offense,1,346,Health,1,Wedge Antilles
+660,6.0,5.0,5.0,15-C,5.88% Health,10,Speed,2,16,Defense,2,1.53%,Defense,1,2.11%,Potency,1,Snowtrooper
+661,6.0,5.0,5.0,15-D,5.88% Health,9,Speed,2,28,Offense,1,2.17%,Protection,1,6,Defense,1,Ahsoka Tano (Fulcrum)
+662,6.0,5.0,5.0,15-A,23.5% Protection,2.57%,Defense,2,7,Speed,2,1445,Protection,2,1.05%,Offense,2,Wicket
+663,6.0,5.0,5.0,15-D,5.88% Health,71,Offense,2,721,Protection,1,8,Defense,1,1.37%,Protection,1,Visas Marr
+664,6.0,5.0,5.0,15-D,23.5% Protection,7,Speed,2,1.66%,Critical Chance,1,2.07%,Tenacity,1,6,Defense,1,Rebel Officer Leia Organa
+665,6.0,5.0,6.0,15-E,16% Health,16,Speed,3,3.31%,Protection,2,74,Offense,2,15,Defense,1,Rey (Scavenger)
+666,6.0,5.0,5.0,15-C,5.88% Health,3.39%,Potency,2,8,Speed,2,428,Protection,1,0.29%,Offense,1,Chopper
+667,6.0,5.0,5.0,15-C,23.5% Protection,1.22%,Offense,3,26,Offense,1,0.98%,Health,1,284,Health,1,Death Trooper
+668,6.0,5.0,5.0,12-C,19% Protection,1.42%,Offense,3,0.71%,Health,1,1.18%,Tenacity,1,748,Protection,1,Captain Phasma
+669,6.0,5.0,5.0,15-A,23.5% Protection,1.29%,Potency,1,1.79%,Critical Chance,1,0.93%,Offense,3,13,Speed,3,Darth Traya
+670,6.0,5.0,5.0,15-A,5.88% Health,7,Speed,2,528,Protection,1,98,Offense,3,10,Defense,2,Chief Chirpa
+671,6.0,5.0,5.0,15-A,5.88% Health,1359,Protection,2,3.2%,Defense,2,13,Speed,3,1.6%,Protection,1,Commander Luke Skywalker
+672,6.0,5.0,5.0,15-C,5.88% Health,93,Offense,3,1.94%,Potency,1,363,Health,1,4,Speed,1,Resistance Trooper
+673,6.0,5.0,5.0,15-A,5.88% Health,594,Protection,1,3.11%,Tenacity,2,15,Speed,3,2.98%,Defense,2,Wampa
+674,6.0,5.0,5.0,15-B,23.5% Protection,3.53%,Critical Chance,2,3.79%,Tenacity,2,666,Health,2,3,Speed,1,Chirrut Îmwe
+675,6.0,5.0,5.0,15-A,5.88% Health,0.42%,Offense,1,1.98%,Tenacity,1,4.09%,Protection,2,6.91%,Critical Chance,4,Nightsister Acolyte
+676,6.0,5.0,5.0,15-B,5.88% Health,4.24%,Critical Chance,2,106,Offense,3,5,Speed,1,1.4%,Potency,1,Asajj Ventress
+677,6.0,5.0,5.0,15-D,23.5% Protection,73,Offense,2,1.72%,Critical Chance,1,5,Defense,1,735,Protection,1,"CC-2224 ""Cody"""
+678,6.0,5.0,5.0,15-C,23.5% Protection,9,Speed,2,0.3%,Offense,1,696,Protection,1,1.99%,Health,2,Barriss Offee
+679,6.0,5.0,5.0,15-D,23.5% Protection,3.96%,Critical Chance,2,1.4%,Tenacity,1,0.54%,Offense,1,375,Health,1,Lando Calrissian
+680,6.0,5.0,5.0,15-A,23.5% Protection,140,Offense,4,4,Speed,1,3.67%,Critical Chance,2,1.34%,Defense,1,Pao
+681,6.0,5.0,5.0,15-D,23.5% Protection,7,Speed,2,2.25%,Tenacity,1,5,Defense,1,0.85%,Health,1,Kylo Ren
+682,7.0,5.0,5.0,15-C,5.88% Health,8,Speed,2,1.24%,Defense,1,684,Protection,1,15,Defense,2,Bistan
+683,7.0,5.0,5.0,15-B,23.5% Protection,23,Defense,3,9,Speed,2,1.2%,Defense,1,1.21%,Critical Chance,1,B2 Super Battle Droid
+684,7.0,5.0,5.0,15-A,5.88% Health,9,Speed,2,2.8%,Defense,2,119,Offense,3,7,Defense,1,Poggle the Lesser
+685,7.0,5.0,5.0,15-C,5.88% Health,9,Speed,2,17,Defense,2,34,Offense,1,636,Protection,1,Nute Gunray
+686,8.0,5.0,5.0,12-A,19% Protection,121,Offense,3,1.14%,Defense,1,1.34%,Tenacity,1,1.2%,Offense,3,First Order SF TIE Pilot
+687,8.0,5.0,5.0,15-C,5.88% Health,9,Speed,2,1.65%,Potency,1,378,Health,1,2.57%,Defense,2,Enfys Nest
+688,8.0,5.0,5.0,15-A,23.5% Protection,10,Speed,2,1097,Health,3,1.45%,Tenacity,1,1.9%,Health,2,R2-D2
+689,8.0,5.0,5.0,15-D,23.5% Protection,2.54%,Defense,2,0.49%,Offense,1,1.02%,Health,1,3,Speed,1,First Order TIE Pilot
+690,8.0,5.0,5.0,15-D,23.5% Protection,8,Defense,1,5,Speed,1,4.21%,Potency,2,0.29%,Offense,1,Jyn Erso
+691,1.0,6.0,5.0,15-C,5.88% Health,1.9%,Potency,1,0.3%,Offense,1,902,Health,3,4,Speed,1,Nightsister Zombie
+692,1.0,6.0,5.0,15-C,23.5% Protection,9,Speed,2,3.44%,Critical Chance,2,2.22%,Tenacity,1,1.02%,Health,1,Darth Sion
+693,1.0,6.0,5.0,15-A,24% Potency,96,Offense,3,1.62%,Defense,1,2.95%,Protection,2,9,Speed,2,Chewbacca
+694,1.0,6.0,5.0,15-C,24% Potency,0.89%,Offense,2,2.49%,Defense,2,0.77%,Health,1,1.15%,Tenacity,1,Princess Leia
+695,1.0,6.0,5.0,15-C,5.88% Offense,9,Speed,2,255,Health,1,1.46%,Protection,1,1.86%,Health,2,Droideka
+696,1.0,6.0,5.0,15-C,5.88% Health,9,Speed,2,338,Health,1,41,Offense,1,3.35%,Critical Chance,2,Shoretrooper
+697,1.0,6.0,5.0,15-C,23.5% Protection,355,Health,1,5,Speed,1,80,Offense,2,4.18%,Tenacity,2,Scarif Rebel Pathfinder
+698,1.0,6.0,6.0,15-E,30% Potency,35,Defense,3,16,Speed,3,1.16%,Health,1,1.26%,Offense,1,T3-M4
+699,1.0,6.0,5.0,15-D,24% Potency,13,Defense,2,329,Health,1,1.31%,Protection,1,29,Offense,1,Teebo
+700,1.0,6.0,5.0,15-C,5.88% Health,6,Defense,1,662,Protection,1,10,Speed,2,56,Offense,2,Carth Onasi
+701,1.0,6.0,5.0,15-A,5.88% Offense,2.61%,Defense,2,667,Health,2,10,Speed,2,3.16%,Critical Chance,2,Mother Talzin
+702,1.0,6.0,5.0,15-C,5.88% Health,17,Defense,2,2.3%,Defense,2,5,Speed,1,0.41%,Offense,1,Kylo Ren (Unmasked)
+703,1.0,6.0,6.0,15-E,16% Health,16,Speed,3,3.42%,Protection,2,4.75%,Potency,2,48,Offense,1,General Kenobi
+704,1.0,6.0,5.0,15-A,23.5% Protection,2.61%,Defense,2,12,Speed,3,5,Defense,1,3.2%,Potency,2,Dengar
+705,1.0,6.0,5.0,15-A,23.5% Protection,11,Speed,3,1.26%,Critical Chance,1,2.42%,Tenacity,2,1107,Protection,2,R2-D2
+706,1.0,6.0,5.0,15-A,23.5% Protection,14,Speed,3,0.54%,Offense,1,1.58%,Health,2,3.56%,Tenacity,2,Darth Traya
+707,1.0,6.0,5.0,15-C,24% Potency,1962,Protection,3,1.95%,Critical Chance,1,341,Health,1,0.36%,Offense,1,First Order TIE Pilot
+708,1.0,6.0,5.0,15-E,23.5% Protection,2.13%,Critical Chance,1,0.4%,Offense,1,4,Speed,1,1.83%,Potency,1,Wedge Antilles
+709,1.0,6.0,5.0,15-D,5.88% Offense,7,Speed,2,1.63%,Potency,1,1.22%,Protection,1,2.01%,Critical Chance,1,TIE Fighter Pilot
+710,1.0,6.0,5.0,15-A,23.5% Protection,8,Defense,1,5.44%,Potency,3,797,Health,2,2.9%,Tenacity,2,Baze Malbus
+711,1.0,6.0,5.0,15-C,5.88% Offense,8,Speed,2,1.55%,Critical Chance,1,0.92%,Defense,1,3.24%,Potency,2,Nute Gunray
+712,1.0,6.0,6.0,15-E,16% Health,1549,Protection,2,20,Speed,4,2.53%,Tenacity,1,13,Defense,1,General Grievous
+713,1.0,6.0,5.0,15-A,5.88% Offense,12,Speed,3,1070,Protection,2,0.87%,Defense,1,3.58%,Critical Chance,2,Jedi Knight Anakin
+714,1.0,6.0,5.0,15-A,5.88% Health,3.8%,Defense,3,46,Offense,1,1.3%,Critical Chance,1,16,Speed,3,Jolee Bindo
+715,1.0,6.0,5.0,15-C,23.5% Protection,0.72%,Health,1,5,Speed,1,2.19%,Tenacity,1,1.16%,Offense,3,Stormtrooper Han
+716,1.0,6.0,5.0,15-C,24% Tenacity,4,Speed,1,4.03%,Potency,3,0.87%,Health,1,441,Protection,1,Vandor Chewbacca
+717,1.0,6.0,5.0,15-E,24% Tenacity,1.93%,Potency,1,288,Health,1,1.49%,Protection,1,4,Speed,1,Biggs Darklighter
+718,1.0,6.0,5.0,15-C,5.88% Offense,1273,Protection,2,6,Defense,1,39,Offense,1,754,Health,2,Finn
+719,1.0,6.0,5.0,15-B,24% Tenacity,10,Speed,2,7,Defense,1,3.02%,Critical Chance,2,1225,Protection,2,Mission Vao
+720,1.0,6.0,5.0,15-C,5.88% Health,71,Offense,2,0.97%,Offense,2,1.36%,Defense,1,457,Protection,1,Paploo
+721,1.0,6.0,5.0,15-C,5.88% Offense,0.63%,Health,1,9,Speed,2,801,Protection,1,704,Health,2,Ahsoka Tano
+722,1.0,6.0,5.0,15-C,5.88% Offense,10,Speed,2,567,Protection,1,61,Offense,2,0.93%,Defense,1,Grand Moff Tarkin
+723,1.0,6.0,5.0,15-C,5.88% Health,56,Offense,2,7,Speed,2,383,Health,1,1.42%,Protection,1,Imperial Probe Droid
+724,1.0,6.0,6.0,15-E,16% Health,8.62%,Defense,3,12,Speed,3,464,Health,1,48,Offense,1,Padmé Amidala
+725,1.0,6.0,5.0,12-C,4.75% Offense,3,Speed,1,1018,Health,3,9,Defense,1,24,Offense,1,Zam Wesell
+726,1.0,6.0,5.0,15-B,24% Potency,0.93%,Offense,3,66,Offense,2,1.6%,Defense,1,405,Health,1,"Garazeb ""Zeb"" Orrelios"
+727,1.0,6.0,5.0,15-C,5.88% Offense,10,Speed,3,275,Health,1,1.48%,Defense,1,9,Defense,1,Range Trooper
+728,1.0,6.0,5.0,15-D,23.5% Protection,1358,Protection,2,1.62%,Critical Chance,1,27,Offense,1,355,Health,1,Ewok Elder
+729,1.0,6.0,5.0,15-C,11.75% Defense,4.1%,Protection,2,9,Speed,2,0.83%,Health,1,560,Protection,1,Zaalbar
+730,1.0,6.0,5.0,15-B,11.75% Defense,15,Speed,3,8,Defense,1,1.8%,Tenacity,1,4.18%,Protection,2,Colonel Starck
+731,1.0,6.0,5.0,15-C,5.88% Offense,1.37%,Defense,1,9,Speed,2,13,Defense,2,700,Protection,1,Old Daka
+732,1.0,6.0,5.0,15-C,23.5% Protection,1.58%,Defense,1,9,Speed,3,9,Defense,1,1.42%,Critical Chance,1,Juhani
+733,1.0,6.0,5.0,15-C,23.5% Protection,2.1%,Tenacity,1,251,Health,1,5.47%,Critical Chance,3,5,Speed,1,Royal Guard
+734,1.0,6.0,5.0,15-A,24% Potency,20,Defense,3,1.52%,Protection,1,359,Health,1,1.32%,Offense,3,Plo Koon
+735,1.0,6.0,5.0,15-D,5.88% Offense,0.69%,Health,1,4,Speed,1,2.13%,Protection,1,14,Defense,2,Rebel Officer Leia Organa
+736,2.0,6.0,5.0,15-B,5.88% Offense,31,Offense,1,5,Speed,1,6.35%,Protection,4,332,Health,1,Rey (Scavenger)
+737,2.0,6.0,5.0,15-D,23.5% Protection,10,Speed,2,2.15%,Tenacity,1,0.95%,Health,1,323,Health,1,Nightsister Spirit
+738,2.0,6.0,5.0,15-B,11.75% Defense,1.36%,Health,2,9,Speed,2,2.53%,Protection,2,5,Defense,1,Clone Sergeant - Phase I
+739,2.0,6.0,5.0,15-A,5.88% Offense,9,Speed,2,81,Offense,2,3.15%,Protection,2,1245,Protection,2,Jedi Knight Revan
+740,2.0,6.0,5.0,15-A,5.88% Health,777,Protection,1,13,Speed,3,16,Defense,2,3.55%,Tenacity,2,Sun Fac
+741,2.0,6.0,5.0,15-A,5.88% Offense,38,Offense,1,3.42%,Health,4,3.34%,Potency,2,3,Speed,1,Death Trooper
+742,2.0,6.0,5.0,15-B,5.88% Offense,2.76%,Defense,3,7,Speed,2,223,Health,1,1.69%,Tenacity,1,Han Solo
+743,2.0,6.0,5.0,15-A,24% Potency,1.93%,Health,2,4.1%,Tenacity,2,9,Speed,2,2.64%,Defense,2,Chief Chirpa
+744,2.0,6.0,5.0,15-A,23.5% Protection,0.88%,Defense,1,480,Health,2,4,Speed,1,1.47%,Offense,4,Hera Syndulla
+745,2.0,6.0,5.0,15-C,5.88% Offense,5,Speed,1,1239,Health,3,1.41%,Tenacity,1,1.37%,Protection,1,Talia
+746,4.0,6.0,5.0,15-D,5.88% Offense,7,Defense,1,417,Health,1,4,Speed,1,2.78%,Tenacity,2,Admiral Ackbar
+747,4.0,6.0,5.0,15-C,24% Tenacity,594,Health,2,8,Speed,2,34,Offense,1,0.86%,Health,1,"CT-7567 ""Rex"""
+748,4.0,6.0,5.0,15-B,5.88% Offense,3.16%,Protection,2,1.06%,Health,1,551,Protection,1,11,Speed,3,B1 Battle Droid
+749,4.0,6.0,5.0,15-C,5.88% Health,6,Defense,1,58,Offense,2,9,Speed,2,570,Protection,1,Geonosian Brood Alpha
+750,4.0,6.0,5.0,15-B,5.88% Offense,1.34%,Critical Chance,1,670,Health,2,2.97%,Protection,2,9,Speed,2,"CT-5555 ""Fives"""
+751,4.0,6.0,5.0,15-C,5.88% Offense,1316,Protection,2,8,Speed,2,1.21%,Defense,1,1.06%,Health,1,First Order Executioner
+752,4.0,6.0,5.0,15-D,11.75% Defense,9,Speed,2,603,Protection,1,1.78%,Potency,1,1.63%,Protection,1,Cassian Andor
+753,4.0,6.0,5.0,15-C,5.88% Offense,8,Defense,1,7,Speed,2,1192,Protection,2,1.43%,Defense,1,Wicket
+754,4.0,6.0,5.0,15-C,5.88% Offense,9,Speed,2,0.77%,Health,1,1.4%,Potency,1,58,Offense,2,Wampa
+755,4.0,6.0,5.0,15-A,23.5% Protection,14,Speed,3,270,Health,1,13,Defense,2,2.85%,Potency,2,Grand Admiral Thrawn
+756,4.0,6.0,6.0,15-E,8.5% Offense,484,Health,1,2.44%,Tenacity,1,8.99%,Defense,3,15,Speed,3,Grand Master Yoda
+757,4.0,6.0,5.0,15-D,5.88% Offense,2.1%,Critical Chance,1,658,Protection,1,775,Health,2,5,Speed,1,Greedo
+758,4.0,6.0,6.0,15-E,30% Potency,3.77%,Health,3,1.51%,Critical Chance,1,1290,Protection,2,11,Speed,2,IG-88
+759,4.0,6.0,5.0,15-C,5.88% Health,4.02%,Protection,2,9,Speed,2,1.05%,Defense,1,0.29%,Offense,1,Aayla Secura
+760,4.0,6.0,5.0,15-C,5.88% Offense,708,Health,2,72,Offense,2,2.18%,Critical Chance,1,2.01%,Protection,1,Visas Marr
+761,4.0,6.0,5.0,15-D,24% Tenacity,7,Speed,2,1.69%,Defense,1,0.59%,Health,1,806,Protection,1,First Order Officer
+762,4.0,6.0,5.0,15-B,5.88% Health,13,Speed,3,1.34%,Critical Chance,1,8,Defense,1,1259,Protection,2,BB-8
+763,4.0,6.0,5.0,15-C,23.5% Protection,1335,Protection,2,1.24%,Tenacity,1,0.31%,Offense,1,9,Speed,2,L3-37
+764,4.0,6.0,5.0,15-A,23.5% Protection,0.96%,Defense,1,14,Defense,2,16,Speed,4,0.71%,Health,1,Sith Trooper
+765,4.0,6.0,5.0,15-B,5.88% Offense,1419,Protection,2,2.05%,Critical Chance,1,3.18%,Potency,2,10,Speed,2,Darth Vader
+766,4.0,6.0,5.0,15-D,24% Potency,0.89%,Offense,2,0.68%,Health,1,287,Health,1,4,Speed,1,Kanan Jarrus
+767,4.0,6.0,5.0,15-A,23.5% Protection,5,Speed,1,17,Defense,2,107,Offense,3,1593,Protection,2,Amilyn Holdo
+768,4.0,6.0,5.0,15-D,11.75% Defense,8,Speed,2,0.43%,Offense,1,399,Health,1,1.8%,Potency,1,Cad Bane
+769,4.0,6.0,5.0,15-A,5.88% Offense,1.13%,Defense,1,0.64%,Health,1,7.12%,Critical Chance,4,9,Speed,2,Ezra Bridger
+770,4.0,6.0,5.0,15-C,5.88% Health,1.67%,Critical Chance,1,4.28%,Tenacity,2,9,Speed,2,360,Health,1,Bossk
+771,4.0,6.0,5.0,15-A,11.75% Defense,3.52%,Tenacity,2,13,Speed,3,0.4%,Offense,1,3.38%,Potency,2,C-3PO
+772,4.0,6.0,5.0,15-A,5.88% Offense,3.83%,Critical Chance,2,1.83%,Potency,1,2.79%,Tenacity,2,12,Speed,3,Jango Fett
+773,4.0,6.0,5.0,15-C,11.75% Defense,4,Speed,1,796,Health,2,23,Offense,1,3.96%,Protection,2,Sabine Wren
+774,4.0,6.0,4.0,15-B,8% Defense,610,Health,2,10,Speed,3,6,Defense,1,0.53%,Health,1,Hermit Yoda
+775,4.0,6.0,5.0,15-B,5.88% Health,8,Speed,2,3.66%,Critical Chance,2,0.68%,Offense,2,1.46%,Tenacity,1,General Veers
+776,4.0,6.0,5.0,15-D,5.88% Health,8,Speed,2,2.2%,Critical Chance,1,8,Defense,1,1.48%,Potency,1,Darth Maul
+777,4.0,6.0,5.0,15-A,24% Potency,3.78%,Defense,3,239,Health,1,7,Speed,2,17,Defense,2,K-2SO
+778,4.0,6.0,5.0,15-B,5.88% Offense,10,Speed,2,1.21%,Health,2,6,Defense,1,4.21%,Protection,2,Geonosian Spy
+779,4.0,6.0,5.0,15-B,5.88% Offense,0.87%,Health,1,14,Speed,3,2.1%,Critical Chance,1,578,Health,2,Geonosian Soldier
+780,5.0,6.0,5.0,15-A,24% Potency,5.52%,Critical Chance,3,5,Speed,1,17,Defense,2,73,Offense,2,Nightsister Acolyte
+781,5.0,6.0,5.0,15-A,23.5% Protection,6.3%,Critical Chance,4,2.24%,Defense,2,1.52%,Tenacity,1,1.42%,Potency,1,Nightsister Initiate
+782,5.0,6.0,5.0,15-C,24% Tenacity,9,Speed,2,2.21%,Defense,2,6,Defense,1,0.51%,Offense,1,Barriss Offee
+783,5.0,6.0,6.0,15-E,24% Protection,19,Speed,4,1.4%,Health,1,1.23%,Critical Chance,1,25,Defense,2,Darth Revan
+784,5.0,6.0,5.0,15-B,5.88% Offense,4.62%,Potency,3,7,Defense,1,8,Speed,2,293,Health,1,Sith Marauder
+785,5.0,6.0,5.0,15-D,23.5% Protection,0.78%,Offense,2,27,Offense,1,319,Health,1,1.11%,Health,1,Chopper
+786,5.0,6.0,6.0,15-E,8.5% Offense,14,Speed,3,1.31%,Health,1,2.18%,Defense,1,37,Defense,3,Darth Nihilus
+787,5.0,6.0,5.0,15-C,24% Potency,5.05%,Critical Chance,3,250,Health,1,1.72%,Tenacity,1,0.35%,Offense,1,Jyn Erso
+788,6.0,6.0,5.0,12-D,19.5% Potency,368,Health,1,8,Defense,1,4,Speed,1,2.16%,Defense,2,Sith Assassin
+789,6.0,6.0,5.0,15-D,24% Potency,9,Speed,2,0.38%,Offense,1,1.49%,Protection,1,8,Defense,1,Boba Fett
+790,6.0,6.0,5.0,15-C,5.88% Health,10,Speed,2,3.49%,Critical Chance,2,1.52%,Potency,1,1.37%,Tenacity,1,Rey (Jedi Training)
+791,6.0,6.0,5.0,15-D,24% Tenacity,9,Speed,2,641,Protection,1,1.58%,Potency,1,1.94%,Protection,1,Lando Calrissian
+792,6.0,6.0,5.0,15-A,5.88% Offense,1.7%,Health,2,10,Speed,2,7,Defense,1,6.13%,Critical Chance,3,Snowtrooper
+793,6.0,6.0,5.0,12-D,19.5% Tenacity,0.88%,Offense,2,7,Defense,1,4,Speed,1,341,Health,1,Logray
+794,6.0,6.0,5.0,15-C,24% Tenacity,4.58%,Critical Chance,3,1.78%,Potency,1,5,Speed,1,8,Defense,1,Chirrut Îmwe
+795,6.0,6.0,5.0,15-A,5.88% Offense,220,Health,1,1909,Protection,3,35,Offense,1,4.99%,Critical Chance,3,Asajj Ventress
+796,6.0,6.0,6.0,15-E,8.5% Offense,14,Speed,3,711,Protection,1,7.32%,Tenacity,3,1.74%,Critical Chance,1,Bastila Shan
+797,6.0,6.0,5.0,15-D,24% Potency,1348,Protection,2,1.81%,Tenacity,1,4,Speed,1,7,Defense,1,Kylo Ren
+798,6.0,6.0,5.0,15-E,24% Potency,1.78%,Critical Chance,1,0.55%,Offense,1,320,Health,1,1.86%,Protection,1,Resistance Pilot
+799,6.0,6.0,5.0,15-E,23.5% Protection,1.56%,Defense,1,418,Health,1,788,Protection,1,0.35%,Offense,1,Bistan
+800,6.0,6.0,5.0,15-B,5.88% Offense,8,Speed,2,1.37%,Tenacity,1,2.8%,Protection,2,1503,Protection,2,Captain Phasma
+801,6.0,6.0,5.0,15-A,5.88% Health,7,Defense,1,13,Speed,3,1.64%,Tenacity,1,1029,Health,3,Commander Luke Skywalker
+802,6.0,6.0,5.0,15-B,11.75% Defense,1445,Protection,2,11,Speed,3,1.2%,Tenacity,1,2.1%,Potency,1,Canderous Ordo
+803,6.0,6.0,6.0,15-E,8.5% Offense,38,Offense,1,4.12%,Protection,2,14,Speed,3,3.69%,Critical Chance,2,HK-47
+804,6.0,6.0,5.0,15-D,24% Potency,2.69%,Critical Chance,2,637,Protection,1,306,Health,1,0.31%,Offense,1,Resistance Trooper
+805,6.0,6.0,5.0,15-A,24% Tenacity,10,Speed,2,52,Offense,2,1846,Protection,3,0.38%,Offense,1,Qi'ra
+806,7.0,6.0,5.0,12-B,4.75% Offense,0.97%,Health,1,21,Defense,3,8,Speed,2,2.21%,Potency,1,Aurra Sing
+807,7.0,6.0,5.0,15-B,24% Potency,4,Speed,1,3.92%,Tenacity,2,4.98%,Protection,3,0.58%,Health,1,B2 Super Battle Droid
+808,7.0,6.0,5.0,15-A,23.5% Protection,762,Protection,1,0.54%,Offense,1,17,Speed,4,2.17%,Health,2,Darth Malak
+809,7.0,6.0,5.0,15-B,24% Potency,1050,Health,3,5,Speed,1,2.58%,Defense,2,0.99%,Health,1,Poe Dameron
+810,7.0,6.0,6.0,15-E,20% Defense,2.23%,Health,2,19,Speed,4,10,Defense,1,31,Offense,1,Bastila Shan (Fallen)
+811,7.0,6.0,5.0,15-E,23.5% Protection,8,Defense,1,362,Health,1,3,Speed,1,34,Offense,1,Obi-Wan Kenobi (Old Ben)
+812,8.0,6.0,5.0,6-C,10.5% Tenacity,4,Speed,1,5.75%,Critical Chance,3,"CT-21-0408 ""Echo""",,,,,,
+813,8.0,6.0,5.0,15-B,5.88% Health,0.67%,Offense,2,9,Speed,2,9,Defense,1,638,Health,2,Count Dooku
+814,8.0,6.0,4.0,15-A,21% Potency,6,Defense,1,29,Offense,1,12,Speed,4,480,Health,2,Emperor Palpatine
+815,8.0,6.0,5.0,15-B,24% Potency,2.43%,Defense,2,13,Defense,2,7,Speed,2,38,Offense,1,Poggle the Lesser
+816,8.0,6.0,5.0,15-B,24% Tenacity,3.34%,Protection,2,1.15%,Offense,3,4,Speed,1,2.24%,Critical Chance,1,Enfys Nest

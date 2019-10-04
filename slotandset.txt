@@ -1,0 +1,40 @@
+slot 1-6 is as expected: square arrow diamond triangle circle cross
+set 1: health
+set 2: offense
+set 3: defense 
+set 4: speed
+set 5: crit chance
+set 6: crit damage
+set 7: potency
+set 8: tenacity
+
+Primary Type:
+
+Speed
+Offense
+Critical Damage
+Critical Chance
+Protection
+Health
+Defense
+Tenacity
+Potency
+
+['Speed', 'Critical Chance%', 'Potency%', 'Tenacity%', 
+	'Protection', 'Protection%', 
+	'Offense', 'Offense%', 
+	'Health', 'Health%', 
+        'Defense', 'Defense%'
+       ]
+
+set1: (required) such as speed set, hp set
+set2: (optional) (if blank, will fill the rest with whatever best mods)
+set3: (optional)
+stat priority 1: stat (like speed usually)
+stat 1 goal: as high as possible or specific #
+stat priority 2: (optional) for example crit chance
+stat 2 goal: as high as possible or specific #
+arrow primary: default speed, set for offense or hp
+triangle primary: default any, set for any option (CD, CC, hp, prot, offense, defense)
+circle primary: default either, set for prot or hp
+cross primary: default any, set for any option (off, prot, hp, ten, pot, def)
